@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="8.4666681mm"
+   height="8.46667mm"
+   viewBox="0 0 8.466668 8.4666703"
+   version="1.1"
+   id="svg1578"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="daRta_favicon_32.svg">
+  <defs
+     id="defs1572">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3690">
+      <stop
+         style="stop-color:#0075a7;stop-opacity:1;"
+         offset="0"
+         id="stop3686" />
+      <stop
+         style="stop-color:#ade6ff;stop-opacity:1"
+         offset="1"
+         id="stop3688" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3631"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#2ec1ff;stop-opacity:1;"
+         offset="0"
+         id="stop3629" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3690"
+       id="linearGradient3692"
+       x1="30.576181"
+       y1="188.05515"
+       x2="117.98385"
+       y2="113.75423"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.13252371,0,0,0.13252371,27.219662,163.25387)" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="11.2"
+     inkscape:cx="13.101227"
+     inkscape:cy="23.969581"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1858"
+     inkscape:window-height="1057"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata1575">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-31.37799,-179.72737)">
+    <path
+       style="opacity:1;fill:url(#linearGradient3692);fill-opacity:1;stroke:none;stroke-width:0.01484926;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       d="m 33.43052,179.72737 c -1.137097,0 -2.05253,0.91544 -2.05253,2.05253 v 4.36161 c 0,1.1371 0.915433,2.05253 2.05253,2.05253 h 4.361609 c 1.137096,0 2.052529,-0.91543 2.052529,-2.05253 v -4.36161 c 0,-1.13709 -0.915433,-2.05253 -2.052529,-2.05253 z m 2.23527,0.53604 c 3.196479,0 2.882358,3.30391 1.440175,5.48442 -0.360311,-0.20493 -0.710789,-0.43653 -1.051643,-0.69428 0.857253,-1.39771 1.12071,-3.46916 -0.388532,-3.46916 -0.754527,0 -1.226668,0.33064 -1.226668,0.75486 h -1.320989 c 0,-1.10893 0.997226,-2.07584 2.547657,-2.07584 z m -2.547657,3.39683 h 1.320989 c 1.087786,1.27461 2.3204,2.15614 3.698791,2.64198 v 1.32101 c -1.538506,-0.50649 -2.730829,-1.30974 -3.698791,-2.30528 v 0.98427 c 0.229885,0 0.459967,-0.0819 0.68105,-0.22403 0.330564,0.27251 0.681297,0.5277 1.054681,0.76351 -0.539007,0.48027 -1.139362,0.78151 -1.735731,0.78151 h -1.320989 v -1.32099 z"
+       id="rect1554"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>
