@@ -1483,6 +1483,13 @@ h3 {
   padding: 135px 0 105px 0;
 }
 
+.counter_area .info_text h3 {
+  font-size: 46px;
+  font-weight: 300;
+  color: #fff;
+  margin-bottom: 0;
+}
+
 /* line 6, ../../Arafath/CL/CL October/216. Consulting/HTML/scss/_counter.scss */
 .counter_area .single_counter {
   margin-bottom: 30px;
