@@ -1413,6 +1413,7 @@ h3 {
 
 /* line 2, ../../Arafath/CL/CL October/216. Consulting/HTML/scss/_about.scss */
 .about_info_area {
+  padding-top: 50px;
   padding-bottom: 70px;
 }
 
@@ -1522,7 +1523,7 @@ h3 {
 
 /* line 31, ../../Arafath/CL/CL October/216. Consulting/HTML/scss/_counter.scss */
 .case_study_area {
-  padding-top: 100px;
+  padding-top: 50px;
 }
 
 @media (max-width: 767px) {
@@ -1534,7 +1535,7 @@ h3 {
 
 /* line 36, ../../Arafath/CL/CL October/216. Consulting/HTML/scss/_counter.scss */
 .case_study_area.case_page {
-  padding-bottom: 100px;
+  padding-bottom: 0px;
 }
 
 @media (max-width: 767px) {

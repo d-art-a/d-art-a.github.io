@@ -184,6 +184,10 @@ center: false,
     }
   });
 
+  // filter items on page load
+    var filterValue = '.core';
+    $grid.isotope({ filter: filterValue });
+
   // filter items on button click
   $('.portfolio-menu').on('click', 'button', function () {
     var filterValue = $(this).attr('data-filter');
