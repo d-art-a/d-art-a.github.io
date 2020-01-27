@@ -1550,6 +1550,23 @@ h3 {
   margin-bottom: 40px;
 }
 
+/* line 36, ../../Arafath/CL/CL October/216. Consulting/HTML/scss/_counter.scss */
+.case_study_area.index_page {
+  padding-bottom: 80px;
+}
+
+@media (max-width: 767px) {
+  /* line 36, ../../Arafath/CL/CL October/216. Consulting/HTML/scss/_counter.scss */
+  .case_study_area.index_page {
+    padding-bottom: 50px;
+  }
+}
+
+/* line 41, ../../Arafath/CL/CL October/216. Consulting/HTML/scss/_counter.scss */
+.case_study_area.index_page .single_case {
+  margin-bottom: 40px;
+}
+
 /* line 45, ../../Arafath/CL/CL October/216. Consulting/HTML/scss/_counter.scss */
 .case_study_area .border_bottom {
   border-bottom: 1px solid #E8E8E8;
@@ -1640,6 +1657,7 @@ h3 {
 
 /* line 106, ../../Arafath/CL/CL October/216. Consulting/HTML/scss/_counter.scss */
 .portfolio-menu {
+  margin-top: 0px;
   margin-bottom: 40px;
 }
 
@@ -1846,7 +1864,7 @@ h3 {
   background-position: center center;
   background-repeat: no-repeat;
   position: relative;
-  padding: 142px 0 137px 0;
+  padding: 102px 0 77px 0;
 }
 
 @media (max-width: 767px) {
@@ -1958,6 +1976,57 @@ h3 {
 .Information_area .info_text a.boxed-btn3 {
   padding: 14px 40px;
 }
+
+
+
+
+/* line 61, ../../Arafath/CL/CL October/216. Consulting/HTML/scss/_testmonial.scss */
+.tagline_area {
+  background-image: url(../img/banner/info_banner.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  padding: 100px 0;
+}
+
+@media (max-width: 767px) {
+  /* line 61, ../../Arafath/CL/CL October/216. Consulting/HTML/scss/_testmonial.scss */
+  .tagline_area {
+    padding: 120px 0; /* change height of bar here */
+  }
+}
+
+/* line 71, ../../Arafath/CL/CL October/216. Consulting/HTML/scss/_testmonial.scss */
+.tagline_area .info_text h3 {
+  font-size: 46px;
+  font-weight: 300;
+  color: #fff;
+  margin-bottom: 0;
+}
+
+@media (max-width: 767px) {
+  /* line 71, ../../Arafath/CL/CL October/216. Consulting/HTML/scss/_testmonial.scss */
+  .tagline_area .info_text h3 {
+    font-size: 30px;
+  }
+}
+
+/* line 80, ../../Arafath/CL/CL October/216. Consulting/HTML/scss/_testmonial.scss */
+.tagline_area .info_text p {
+  font-size: 15px;
+  font-weight: 400;
+  color: #E8E8E8;
+  margin: 25px 0;
+}
+
+/* line 86, ../../Arafath/CL/CL October/216. Consulting/HTML/scss/_testmonial.scss */
+.tagline_area .info_text a.boxed-btn3 {
+  padding: 14px 40px;
+}
+
+
+
+
 
 /* line 94, ../../Arafath/CL/CL October/216. Consulting/HTML/scss/_testmonial.scss */
 .newsletter_form {
