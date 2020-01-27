@@ -523,14 +523,14 @@ h3 {
 
 /* line 103, ../../Arafath/CL/CL October/216. Consulting/HTML/scss/_btn.scss */
 .boxed-btn3-line {
-  color: #5DB2FF !important;
+  color: #3895bd !important;
   display: inline-block;
   padding: 14px 31px;
   font-family: "Poppins", sans-serif;
   font-size: 15px;
   font-weight: 500;
   border: 0;
-  border: 1px solid #5DB2FF;
+  border: 1px solid #3895bd;
   -webkit-border-radius: 30px;
   -moz-border-radius: 30px;
   border-radius: 30px;
@@ -546,7 +546,7 @@ h3 {
 
 /* line 119, ../../Arafath/CL/CL October/216. Consulting/HTML/scss/_btn.scss */
 .boxed-btn3-line:hover {
-  background: #5DB2FF;
+  background: #3895bd;
   color: #fff !important;
   border: 1px solid transparent;
 }
@@ -1665,7 +1665,7 @@ h3 {
 .portfolio-menu button {
   font-size: 15px;
   font-weight: 400;
-  color: #1F1F1F;
+  color: #76b9d6;
   border: none;
   background: transparent;
   border: 1px solid transparent;
@@ -1679,8 +1679,8 @@ h3 {
 
 /* line 119, ../../Arafath/CL/CL October/216. Consulting/HTML/scss/_counter.scss */
 .portfolio-menu button.active {
-  border: 1px solid #5DB2FF;
-  color: #5DB2FF;
+  border: 1px solid #76b9d6;
+  color: #76b9d6;
 }
 
 /* line 123, ../../Arafath/CL/CL October/216. Consulting/HTML/scss/_counter.scss */
@@ -1859,8 +1859,9 @@ h3 {
 
 /* line 2, ../../Arafath/CL/CL October/216. Consulting/HTML/scss/_testmonial.scss */
 .testimonial_area {
-  background-image: url(../img/banner/testmonial.png);
+  background-image: url(../img/banner/BIquote.jpg);
   background-size: cover;
+  background-attachment: fixed;
   background-position: center center;
   background-repeat: no-repeat;
   position: relative;
@@ -1935,11 +1936,12 @@ h3 {
 
 /* line 61, ../../Arafath/CL/CL October/216. Consulting/HTML/scss/_testmonial.scss */
 .Information_area {
-  background-image: url(../img/banner/contact_banner.png);
+  background-image: url(../img/banner/contact_banner.jpg);
+  background-attachment: fixed;
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
-  padding: 162px 0;
+  padding: 120px 0;
 }
 
 @media (max-width: 767px) {
@@ -1981,8 +1983,57 @@ h3 {
 
 
 /* line 61, ../../Arafath/CL/CL October/216. Consulting/HTML/scss/_testmonial.scss */
+.Contact_banner {
+  background-image: url(../img/banner/contact_banner.jpg);
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  padding: 50px 0;
+}
+
+@media (max-width: 767px) {
+  /* line 61, ../../Arafath/CL/CL October/216. Consulting/HTML/scss/_testmonial.scss */
+  .Contact_banner {
+    padding: 100px 0;
+  }
+}
+
+/* line 71, ../../Arafath/CL/CL October/216. Consulting/HTML/scss/_testmonial.scss */
+.Contact_banner .info_text h3 {
+  font-size: 46px;
+  font-weight: 300;
+  color: #fff;
+  margin-bottom: 0;
+}
+
+@media (max-width: 767px) {
+  /* line 71, ../../Arafath/CL/CL October/216. Consulting/HTML/scss/_testmonial.scss */
+  .Contact_banner .info_text h3 {
+    font-size: 30px;
+  }
+}
+
+/* line 80, ../../Arafath/CL/CL October/216. Consulting/HTML/scss/_testmonial.scss */
+.Contact_banner .info_text p {
+  font-size: 15px;
+  font-weight: 400;
+  color: #E8E8E8;
+  margin: 25px 0;
+}
+
+/* line 86, ../../Arafath/CL/CL October/216. Consulting/HTML/scss/_testmonial.scss */
+.Contact_banner .info_text a.boxed-btn3 {
+  padding: 14px 40px;
+}
+
+
+
+
+/* line 61, ../../Arafath/CL/CL October/216. Consulting/HTML/scss/_testmonial.scss */
 .tagline_area {
   background-image: url(../img/banner/info_banner.png);
+  background-attachment: fixed;
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
@@ -3263,8 +3314,8 @@ h3 {
 
 /* line 6, ../../Arafath/CL/CL October/216. Consulting/HTML/scss/_footer.scss */
 .footer .footer_top {
-  padding-top: 145px;
-  padding-bottom: 129px;
+  padding-top: 70px;
+  padding-bottom: 20px;
   background: #fff;
 }
 
@@ -4673,28 +4724,28 @@ h6 {
 /* line 257, ../../Arafath/CL/CL October/216. Consulting/HTML/scss/_elements.scss */
 .genric-btn.info {
   color: #fff;
-  background: #38a4ff;
+  background: #3895bd;
   border: 1px solid transparent;
 }
 
 /* line 261, ../../Arafath/CL/CL October/216. Consulting/HTML/scss/_elements.scss */
 .genric-btn.info:hover {
-  color: #38a4ff;
-  border: 1px solid #38a4ff;
+  color: #3895bd;
+  border: 1px solid #3895bd;
   background: #fff;
 }
 
 /* line 267, ../../Arafath/CL/CL October/216. Consulting/HTML/scss/_elements.scss */
 .genric-btn.info-border {
-  color: #38a4ff;
-  border: 1px solid #38a4ff;
+  color: #3895bd;
+  border: 1px solid #3895bd;
   background: #fff;
 }
 
 /* line 271, ../../Arafath/CL/CL October/216. Consulting/HTML/scss/_elements.scss */
 .genric-btn.info-border:hover {
   color: #fff;
-  background: #38a4ff;
+  background: #3895bd;
   border: 1px solid transparent;
 }
 
