@@ -4492,8 +4492,8 @@ h3 {
 
 /* line 85, ../../Arafath/CL/CL October/216. Consulting/HTML/scss/_elements.scss */
 b,
-sup,
-sub,
+/* sup, */
+/* sub, */
 u,
 del {
   color: #ff5e13;
