@@ -5,7 +5,7 @@
     $name = $_REQUEST['name'];
     $subject = $_REQUEST['subject'];
     $message = $_REQUEST['message'];
-	$captcha=$_POST['g-recaptcha-response'];
+	$captcha = $_POST['g-recaptcha-response'];
 
 	$headers = "From: " . $name . "\n\n";
 	$headers .= "Reply-To: ". $from . "\n\n";
