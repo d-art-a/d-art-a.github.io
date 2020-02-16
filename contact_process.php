@@ -1,7 +1,5 @@
 <?php
 
-if (isset($_POST['submit'])) {
-	
     $to = "info@dartaanalytics.com.au";
     $from = $_REQUEST['email'];
     $name = $_REQUEST['name'];
@@ -24,9 +22,6 @@ if (isset($_POST['submit'])) {
 	$body .= "</tbody></table>";
 	$body .= "</body></html>";
 
-    mail($to, $subject, $body, $headers);
-	header("Location: contact.php?mailsent");
+    $send = mail($to, $subject, $body, $headers);
 	
-}
-
 ?>
