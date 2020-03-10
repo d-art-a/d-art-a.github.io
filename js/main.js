@@ -184,9 +184,16 @@ center: false,
     }
   });
 
-  // filter items on page load
-    var filterValue = '.core';
+	// filter items on page load (getting query from URL if need be)
+	var filterValue = '.collection'
+	var urlParams = new URLSearchParams(window.location.search);
+	if(urlParams.get('service') !== null){
+		filterValue = (".").concat(urlParams.get('service'));
+	}
     $grid.isotope({ filter: filterValue });
+	// change heading to active if URL queried
+
+	//console.log(urlParams.get('service'))
 
   // filter items on button click
   $('.portfolio-menu').on('click', 'button', function () {
