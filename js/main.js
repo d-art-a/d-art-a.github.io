@@ -184,17 +184,30 @@ center: false,
     }
   });
 
-	// filter items on page load (getting query from URL if need be)
-	var filterValue = '.collection'
+	// initialise the services grid, depending on whether a querty was sent via HTML
+	var filbuts = document.getElementById('filters').getElementsByTagName('button')
 	var urlParams = new URLSearchParams(window.location.search);
+	var filterValue
 	if(urlParams.get('service') !== null){
+		// set filter value to the query 
 		filterValue = (".").concat(urlParams.get('service'));
+		// remove the default active class (if it exists)
+		$('.portfolio-menu button').siblings('.active').removeClass('active');
+		// assign active class to the button queried
+		for (var i = 0; i < filbuts.length; ++i) {
+		   if ((".").concat(urlParams.get('service')) == filbuts[i].dataset['filter']) {
+			   filbuts[i].classList.add('active');
+		   };
+		}
+	} else {
+		// set the first filter button as active
+		filterValue = filbuts[0].dataset['filter']
+		filbuts[0].classList.add('active');
 	}
+	// filter grid to selected services
     $grid.isotope({ filter: filterValue });
-	// change heading to active if URL queried
-
-	//console.log(urlParams.get('service'))
-
+	
+	
   // filter items on button click
   $('.portfolio-menu').on('click', 'button', function () {
     var filterValue = $(this).attr('data-filter');
