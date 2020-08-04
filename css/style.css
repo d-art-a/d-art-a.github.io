@@ -2364,13 +2364,14 @@ h3 {
 .accordion_area .faq_ask #accordion .btn-link.focus, .accordion_area .faq_ask #accordion .btn-link:focus {
   text-decoration: none;
   border-color: transparent;
+  border-color: transparent;
   box-shadow: none;
 }
 
 /* line 1, ../../Arafath/CL/CL October/216. Consulting/HTML/scss/_case_details.scss */
 .case_details_area {
-  padding-top: 100px;
-  margin-top: 138px;
+  padding-top: 50px;
+  margin-top: 10px;
 }
 
 @media (max-width: 767px) {
@@ -2394,7 +2395,7 @@ h3 {
 
 /* line 15, ../../Arafath/CL/CL October/216. Consulting/HTML/scss/_case_details.scss */
 .case_details_area .details_title {
-  margin-bottom: 60px;
+  margin-bottom: 20px;
 }
 
 /* line 17, ../../Arafath/CL/CL October/216. Consulting/HTML/scss/_case_details.scss */
