@@ -1860,13 +1860,13 @@ h3 {
 
 /* line 2, ../../Arafath/CL/CL October/216. Consulting/HTML/scss/_testmonial.scss */
 .testimonial_area {
-  background-image: url(../img/banner/BIquote.jpg);
+  /* background-image: url(../img/banner/BIquote.jpg);
   background-size: cover;
   background-attachment: fixed;
   background-position: center center;
   background-repeat: no-repeat;
-  position: relative;
-  padding: 102px 0 77px 0;
+  position: relative; */
+  padding: 10px 0 77px 0;
 }
 
 @media (max-width: 767px) {
@@ -1876,13 +1876,17 @@ h3 {
   }
 }
 
+.client_logo {
+  padding: 0px 10px
+}
+
 /* line 13, ../../Arafath/CL/CL October/216. Consulting/HTML/scss/_testmonial.scss */
 .testimonial_area .single_testmonial p {
-  color: #fff;
+  color:#727272;
   font-weight: 400;
-  font-size: 20px;
+  font-size: 18px;
   line-height: 32px;
-  margin: 34px 0;
+  margin: 34px 80px;
 }
 
 @media (min-width: 320px) and (max-width: 1500px) {
@@ -1905,7 +1909,7 @@ h3 {
 
 /* line 34, ../../Arafath/CL/CL October/216. Consulting/HTML/scss/_testmonial.scss */
 .testimonial_area .single_testmonial .testmonial_author h3 {
-  color: #fff;
+  color: #383838;
   font-size: 15px;
   font-weight: 500;
   margin-bottom: 5px;
@@ -1915,13 +1919,18 @@ h3 {
 .testimonial_area .single_testmonial .testmonial_author span {
   font-size: 13px;
   font-weight: 400;
-  color: #fff;
+  color: #727272;
 }
 
 /* line 47, ../../Arafath/CL/CL October/216. Consulting/HTML/scss/_testmonial.scss */
 .testimonial_area .owl-carousel .owl-item img {
   display: inline-block;
   width: auto;
+}
+
+.testimonial_area .owl-carousel .owl-item .SDG img {
+  display: inline-block;
+  width: 75px;
 }
 
 /* line 51, ../../Arafath/CL/CL October/216. Consulting/HTML/scss/_testmonial.scss */
@@ -1937,7 +1946,7 @@ h3 {
 
 /* line 61, ../../Arafath/CL/CL October/216. Consulting/HTML/scss/_testmonial.scss */
 .Information_area {
-  background-image: url(../img/banner/contact_banner.jpg);
+  background-image: url(../img/banner/contact_banner.png);
   background-attachment: fixed;
   background-repeat: no-repeat;
   background-size: cover;
