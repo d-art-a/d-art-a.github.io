@@ -1866,7 +1866,7 @@ h3 {
   background-position: center center;
   background-repeat: no-repeat;
   position: relative; */
-  padding: 10px 0 77px 0;
+  padding: 100px 0 77px 0;
 }
 
 @media (max-width: 767px) {
@@ -1930,7 +1930,7 @@ h3 {
 
 .testimonial_area .owl-carousel .owl-item .SDG img {
   display: inline-block;
-  width: 75px;
+  width: 100px;
 }
 
 /* line 51, ../../Arafath/CL/CL October/216. Consulting/HTML/scss/_testmonial.scss */
@@ -3569,6 +3569,10 @@ h3 {
 /* line 1, ../../Arafath/CL/CL October/216. Consulting/HTML/scss/_bradcam.scss */
 .bradcam_bg_1 {
   background-image: url(../img/banner/banner_short.jpg);
+}
+
+.bradcam_bg_index {
+  background-image: url(../img/banner/banner.jpg);
 }
 
 /* line 4, ../../Arafath/CL/CL October/216. Consulting/HTML/scss/_bradcam.scss */
