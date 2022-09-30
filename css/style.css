@@ -2038,8 +2038,6 @@ h3 {
 }
 
 
-
-
 /* line 61, ../../Arafath/CL/CL October/216. Consulting/HTML/scss/_testmonial.scss */
 .tagline_area {
   background-image: url(../img/banner/info_banner.jpg);
@@ -2082,6 +2080,51 @@ h3 {
 
 /* line 86, ../../Arafath/CL/CL October/216. Consulting/HTML/scss/_testmonial.scss */
 .tagline_area .info_text a.boxed-btn3 {
+  padding: 14px 40px;
+}
+
+/* line 61, ../../Arafath/CL/CL October/216. Consulting/HTML/scss/_testmonial.scss */
+.tagline2_area {
+  background-image: url(../img/banner/OceanPlastic_banner.png);
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  padding: 100px 0;
+}
+
+@media (max-width: 767px) {
+  /* line 61, ../../Arafath/CL/CL October/216. Consulting/HTML/scss/_testmonial.scss */
+  .tagline2_area {
+    padding: 120px 0; /* change height of bar here */
+  }
+}
+
+/* line 71, ../../Arafath/CL/CL October/216. Consulting/HTML/scss/_testmonial.scss */
+.tagline2_area .info_text h3 {
+  font-size: 46px;
+  font-weight: 300;
+  color: #fff;
+  margin-bottom: 0;
+}
+
+@media (max-width: 767px) {
+  /* line 71, ../../Arafath/CL/CL October/216. Consulting/HTML/scss/_testmonial.scss */
+  .tagline2_area .info_text h3 {
+    font-size: 30px;
+  }
+}
+
+/* line 80, ../../Arafath/CL/CL October/216. Consulting/HTML/scss/_testmonial.scss */
+.tagline2_area .info_text p {
+  font-size: 15px;
+  font-weight: 400;
+  color: #E8E8E8;
+  margin: 25px 0;
+}
+
+/* line 86, ../../Arafath/CL/CL October/216. Consulting/HTML/scss/_testmonial.scss */
+.tagline2_area .info_text a.boxed-btn3 {
   padding: 14px 40px;
 }
 
