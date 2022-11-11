@@ -1476,6 +1476,21 @@ h3 {
   width: 100%;
 }
 
+/* impact section */
+.impact {
+  margin-bottom: 30px;
+}
+.impact b {
+	color: black;
+}
+.impact .sdg_thumb {
+  overflow: hidden;
+}
+.impact .sdg_thumb img {
+  width: 30%;
+  border-radius: 10px;
+}
+
 /* line 1, ../../Arafath/CL/CL October/216. Consulting/HTML/scss/_counter.scss */
 .counter_area {
   background-size: cover;
