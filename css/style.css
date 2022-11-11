@@ -1496,14 +1496,15 @@ h3 {
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
-  padding: 135px 0 105px 0;
+  padding: 80px 0 70px 0;
 }
 
 .counter_area .info_text h3 {
-  font-size: 46px;
-  font-weight: 300;
+  font-size: 32px;
+  font-weight: 200;
+  text-align: center;
   color: #fff;
-  margin-bottom: 0;
+  margin-bottom: 50px;
 }
 
 /* line 6, ../../Arafath/CL/CL October/216. Consulting/HTML/scss/_counter.scss */
@@ -1533,7 +1534,7 @@ h3 {
 
 /* line 27, ../../Arafath/CL/CL October/216. Consulting/HTML/scss/_counter.scss */
 .counter_bg_1 {
-  background-image: url(../img/about/counter.png);
+  background-image: url(../img/banner/counter_banner.png);
 }
 
 /* line 31, ../../Arafath/CL/CL October/216. Consulting/HTML/scss/_counter.scss */
