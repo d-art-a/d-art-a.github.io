@@ -1,0 +1,32 @@
+<!doctype html>
+<html>
+<head>
+</head>
+<body>
+    <div id="ZGLMDU"></div>
+    <script>
+        Thing = 'FWGSBUASY6GDACU2';
+
+        function Dateriser() {
+            var i = new Date;
+            return Math.floor(i / 864e5 + 24405875e-1)
+        };
+
+        function Randomiser(i, e = 0) {
+            t = 3735928559 ^ e;
+            n = 1103547991 ^ e;
+            for (let r = 0; r < i.length; r++)
+                o = i.charCodeAt(r), 
+                t = Math.imul(t ^ o, 2654435761), 
+                n = Math.imul(n ^ o, 1597334677);
+            t = Math.imul(t ^ t >>> 16, 2246822507) ^ Math.imul(n ^ n >>> 13, 3266489909);
+            n = Math.imul(n ^ n >>> 16, 2246822507) ^ Math.imul(t ^ t >>> 13, 3266489909);
+            return 4294967296 * (2097151 & n) + (t >>> 0)
+        }
+
+        document.write(Randomiser(Thing, Dateriser()));
+    </script>
+</body>
+<footer>
+</footer>
+</html>
