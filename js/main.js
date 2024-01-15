@@ -399,28 +399,36 @@ $(document).ready(function() {
 
 
 
-//------- Mailchimp js --------//  
-function mailChimp() {
-  $('#mc_embed_signup').find('form').ajaxChimp();
-}
-mailChimp();
 
 
 
-        // Search Toggle
-        $("#search_input_box").hide();
-        $("#search").on("click", function () {
-            $("#search_input_box").slideToggle();
-            $("#search_input").focus();
-        });
-        $("#close_search").on("click", function () {
-            $('#search_input_box').slideUp(500);
-        });
-        // Search Toggle
-        $("#search_input_box").hide();
-        $("#search_1").on("click", function () {
-            $("#search_input_box").slideToggle();
-            $("#search_input").focus();
-        });
+//-------- MY OWN JS ------------//
+
+
+// Blog category filtering
+$('.blog-cat').on('click', function (event) {
+  // add hidden to all blogs
+  $('.blog_item').not('.hidden').addClass('hidden');
+  // get value of clicked text
+  var filterVal = $(this).attr('blog-filter');
+  // deal with "All" category
+  if (filterVal == 'blog-filter-all') {
+    $('.blog_item').siblings('.hidden').removeClass('hidden');
+  } else {
+    // get list of blogs that match the filter
+    var blogs = document.getElementsByClassName(filterVal);
+    // show/hide blogs
+    for (let blog of blogs) {
+      blog.classList.toggle('hidden')
+    };
+  };
+  // prevent the href from activating
+  event.preventDefault();
+});
+
+
+
+
+
 
 })(jQuery);	
