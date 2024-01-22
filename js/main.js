@@ -185,27 +185,27 @@ center: false,
   });
 
 	// initialise the services grid, depending on whether a querty was sent via HTML
-	var filbuts = document.getElementById('filters').getElementsByTagName('button')
-	var urlParams = new URLSearchParams(window.location.search);
-	var filterValue
-	if(urlParams.get('service') !== null){
-		// set filter value to the query 
-		filterValue = (".").concat(urlParams.get('service'));
-		// remove the default active class (if it exists)
-		$('.portfolio-menu button').siblings('.active').removeClass('active');
-		// assign active class to the button queried
-		for (var i = 0; i < filbuts.length; ++i) {
-		   if ((".").concat(urlParams.get('service')) == filbuts[i].dataset['filter']) {
-			   filbuts[i].classList.add('active');
-		   };
-		}
-	} else {
-		// set the first filter button as active
-		filterValue = filbuts[0].dataset['filter']
-		filbuts[0].classList.add('active');
-	}
-	// filter grid to selected services
-    $grid.isotope({ filter: filterValue });
+	// var filbuts = document.getElementById('filters').getElementsByTagName('button')
+	// var urlParams = new URLSearchParams(window.location.search);
+	// var filterValue
+	// if(urlParams.get('service') !== null){
+	// 	// set filter value to the query 
+	// 	filterValue = (".").concat(urlParams.get('service'));
+	// 	// remove the default active class (if it exists)
+	// 	$('.portfolio-menu button').siblings('.active').removeClass('active');
+	// 	// assign active class to the button queried
+	// 	for (var i = 0; i < filbuts.length; ++i) {
+	// 	   if ((".").concat(urlParams.get('service')) == filbuts[i].dataset['filter']) {
+	// 		   filbuts[i].classList.add('active');
+	// 	   };
+	// 	}
+	// } else {
+	// 	// set the first filter button as active
+	// 	filterValue = filbuts[0].dataset['filter']
+	// 	filbuts[0].classList.add('active');
+	// }
+	// // filter grid to selected services
+  //   $grid.isotope({ filter: filterValue });
 	
 	
   // filter items on button click
@@ -399,28 +399,58 @@ $(document).ready(function() {
 
 
 
-//------- Mailchimp js --------//  
-function mailChimp() {
-  $('#mc_embed_signup').find('form').ajaxChimp();
-}
-mailChimp();
 
 
 
-        // Search Toggle
-        $("#search_input_box").hide();
-        $("#search").on("click", function () {
-            $("#search_input_box").slideToggle();
-            $("#search_input").focus();
-        });
-        $("#close_search").on("click", function () {
-            $('#search_input_box').slideUp(500);
-        });
-        // Search Toggle
-        $("#search_input_box").hide();
-        $("#search_1").on("click", function () {
-            $("#search_input_box").slideToggle();
-            $("#search_input").focus();
-        });
+//-------- MY OWN JS ------------//
+
+
+//---------- Blog category counting -------------//
+
+// loop over each object manually listed in the category sidebar
+var blogCategories = $('.blog-cat')
+blogCategories.each(function() {
+  var filterVal = $(this).attr('blog-filter');
+  if (filterVal == "blog-filter-all") {
+    // count all blogs if "all"
+    var blogCount = $('.blog_item').length
+  } else {
+    // count all relevant blogs
+    var blogCount = $('.' + filterVal).length
+  };
+  // re-set the text to include the count
+  var newText = $(this).text() + '(' + blogCount + ')';
+  $(this).text(newText)
+});
+
+
+
+
+//---------- Blog category filtering -------------//
+
+$('.blog-cat').on('click', function (event) {
+  // add hidden to all blogs
+  $('.blog_item').not('.hidden').addClass('hidden');
+  // get value of clicked text
+  var filterVal = $(this).attr('blog-filter');
+  // deal with "All" category
+  if (filterVal == 'blog-filter-all') {
+    $('.blog_item').removeClass('hidden');
+  } else {
+    // get list of blogs that match the filter
+    var blogs = $('.' + filterVal)
+    // show/hide blogs
+    for (let blog of blogs) {
+      blog.classList.toggle('hidden')
+    };
+  };
+  // prevent the href from activating
+  event.preventDefault();
+});
+
+
+
+
+
 
 })(jQuery);	
