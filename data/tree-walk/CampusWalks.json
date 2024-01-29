@@ -2,411 +2,493 @@
 	{
 		"Walk": "Marri Biddi",
 		"geojson": {
-			"type": "FeatureCollection",
-			"features": [
-				{
-					"type": "Feature",
-					"geometry": {
-						"type": "Point",
-						"coordinates": [
-							115.8209928,
-							-31.98477896
+			"path": {
+				"type": "Feature",
+				"geometry": {
+					"type": "LineString",
+					"coordinates": [
+						[
+							115.821012,
+							-31.984776
+						],
+						[
+							115.820755,
+							-31.984912
+						],
+						[
+							115.820122,
+							-31.984908
+						],
+						[
+							115.820109,
+							-31.982722
+						],
+						[
+							115.818746,
+							-31.982408
+						],
+						[
+							115.818725,
+							-31.980961
+						],
+						[
+							115.817663,
+							-31.980913
+						],
+						[
+							115.817143,
+							-31.980436
+						],
+						[
+							115.817169,
+							-31.979648
+						],
+						[
+							115.81695,
+							-31.97963
+						],
+						[
+							115.816912,
+							-31.979202
+						],
+						[
+							115.816418,
+							-31.979212
+						],
+						[
+							115.81644,
+							-31.97675
 						]
-					},
-					"properties": {
-						"ObjectType": "Tree",
-						"ID": "Tree_3031",
-						"Species": "Corymbia calopylla",
-						"CommonName": "Marri",
-						"Significance": "Interesting tree",
-						"Note": "This is one of the largest Marri trees on campus, with a height of 20-30m and a diameter of 1.3m. It has been growing on campus since at least 1926, putting it at around 100 years old. Look up and admire the vastness of this mature tree's canopy and observe it's bark as it seems to glow red in the afternoon light.",
-						"ImageURL": ""
-					}
+					]
 				},
-				{
-					"type": "Feature",
-					"geometry": {
-						"type": "Point",
-						"coordinates": [
-							115.8203329,
-							-31.98495216
-						]
+				"properties": {}
+			},
+			"points": {
+				"type": "FeatureCollection",
+				"features": [
+					{
+						"type": "Feature",
+						"geometry": {
+							"type": "Point",
+							"coordinates": [
+								115.8209928,
+								-31.98477896
+							]
+						},
+						"properties": {
+							"ObjectType": "Tree",
+							"ID": "Tree_3031",
+							"Species": "Corymbia calopylla",
+							"CommonName": "Marri",
+							"Significance": "Interesting tree",
+							"Note": "This is one of the largest Marri trees on campus, with a height of 20-30m and a diameter of 1.3m. It has been growing on campus since at least 1926, putting it at around 100 years old. Look up and admire the vastness of this mature tree's canopy and observe it's bark as it seems to glow red in the afternoon light.",
+							"ImageURL": ""
+						}
 					},
-					"properties": {
-						"ObjectType": "Tree",
-						"ID": "Tree_3153",
-						"Species": "Eucalyptus marginata",
-						"CommonName": "Jarrah",
-						"Significance": "Interesting tree",
-						"Note": "The Jarrah is a close cousin to the Marri tree. You can most easily tell them apart by the shape of their gum nuts (Marri are 4x as large) and bark. This stand of Jarrah trees are unique due to their fragmented/tessellated bark, which is more similar to that of Marri trees than Jarrah typically have fibrous, vertical strips. These individuals most likely pre-date the university.",
-						"ImageURL": ""
-					}
-				},
-				{
-					"type": "Feature",
-					"geometry": {
-						"type": "Point",
-						"coordinates": [
-							115.8199296,
-							-31.98383215
-						]
+					{
+						"type": "Feature",
+						"geometry": {
+							"type": "Point",
+							"coordinates": [
+								115.8203329,
+								-31.98495216
+							]
+						},
+						"properties": {
+							"ObjectType": "Tree",
+							"ID": "Tree_3153",
+							"Species": "Eucalyptus marginata",
+							"CommonName": "Jarrah",
+							"Significance": "Interesting tree",
+							"Note": "The Jarrah is a close cousin to the Marri tree. You can most easily tell them apart by the shape of their gum nuts (Marri are 4x as large) and bark. This stand of Jarrah trees are unique due to their fragmented/tessellated bark, which is more similar to that of Marri trees than Jarrah typically have fibrous, vertical strips. These individuals most likely pre-date the university.",
+							"ImageURL": ""
+						}
 					},
-					"properties": {
-						"ObjectType": "Tree",
-						"ID": "Tree_2703",
-						"Species": "Brachychiton discolor",
-						"CommonName": "Lacebark tree",
-						"Significance": "Interesting tree",
-						"Note": "Located in the Taxonomic Garden, this tree is the largest and oldest of the species on campus, and sports an exceptional example of the genus' characteristic bulbous trunk. It was planted back when the Taxonomic garden was first built back in the 1960s. This species is native to drier rainforest areas in New South Wales and Queensland, and is alien to Western Australia.",
-						"ImageURL": ""
-					}
-				},
-				{
-					"type": "Feature",
-					"geometry": {
-						"type": "Point",
-						"coordinates": [
-							115.8205756,
-							-31.98303547
-						]
+					{
+						"type": "Feature",
+						"geometry": {
+							"type": "Point",
+							"coordinates": [
+								115.8199296,
+								-31.98383215
+							]
+						},
+						"properties": {
+							"ObjectType": "Tree",
+							"ID": "Tree_2703",
+							"Species": "Brachychiton discolor",
+							"CommonName": "Lacebark tree",
+							"Significance": "Interesting tree",
+							"Note": "Located in the Taxonomic Garden, this tree is the largest and oldest of the species on campus, and sports an exceptional example of the genus' characteristic bulbous trunk. It was planted back when the Taxonomic garden was first built back in the 1960s. This species is native to drier rainforest areas in New South Wales and Queensland, and is alien to Western Australia.",
+							"ImageURL": ""
+						}
 					},
-					"properties": {
-						"ObjectType": "Tree",
-						"ID": "Tree_2817",
-						"Species": "Corymbia calopylla",
-						"CommonName": "Marri",
-						"Significance": "Cultural",
-						"Note": "Located around Bilya Marlee (Indigenous Studies building), this family of Marri trees are some of the oldest on campus, and some even pre-date the university. Culturally, these trees are considered a family providing spiritual and physical links to the past. Infact, the building was designed around these trees to keep the family intact. The garden they reside in is called Borne Wirn, meaning 'spirit of the trees'. For more information on this project see https://www.udla.com.au/projects/bilya-marlee-uwa",
-						"ImageURL": ""
-					}
-				},
-				{
-					"type": "Feature",
-					"geometry": {
-						"type": "Point",
-						"coordinates": [
-							115.8201669,
-							-31.98266082
-						]
+					{
+						"type": "Feature",
+						"geometry": {
+							"type": "Point",
+							"coordinates": [
+								115.8205756,
+								-31.98303547
+							]
+						},
+						"properties": {
+							"ObjectType": "Tree",
+							"ID": "Tree_2817",
+							"Species": "Corymbia calopylla",
+							"CommonName": "Marri",
+							"Significance": "Cultural",
+							"Note": "Located around Bilya Marlee (Indigenous Studies building), this family of Marri trees are some of the oldest on campus, and some even pre-date the university. Culturally, these trees are considered a family providing spiritual and physical links to the past. Infact, the building was designed around these trees to keep the family intact. The garden they reside in is called Borne Wirn, meaning 'spirit of the trees'. For more information on this project see https://www.udla.com.au/projects/bilya-marlee-uwa",
+							"ImageURL": ""
+						}
 					},
-					"properties": {
-						"ObjectType": "Tree",
-						"ID": "Tree_4031",
-						"Species": "Corymbia calopylla",
-						"CommonName": "Marri",
-						"Significance": "Cultural",
-						"Note": "This stand of Marri's was planted after the completion of the Bilya Marlee (Indigenous Studies building) in 2020. They were grown from the seed of a Marri trees that had to be removed from the site during construction. By using the seeds of the Marri's from this site, this family of trees remains intact. For more information on this project see https://www.udla.com.au/projects/bilya-marlee-uwa",
-						"ImageURL": ""
-					}
-				},
-				{
-					"type": "Feature",
-					"geometry": {
-						"type": "Point",
-						"coordinates": [
-							115.8190355,
-							-31.98230975
-						]
+					{
+						"type": "Feature",
+						"geometry": {
+							"type": "Point",
+							"coordinates": [
+								115.8201669,
+								-31.98266082
+							]
+						},
+						"properties": {
+							"ObjectType": "Tree",
+							"ID": "Tree_4031",
+							"Species": "Corymbia calopylla",
+							"CommonName": "Marri",
+							"Significance": "Cultural",
+							"Note": "This stand of Marri's was planted after the completion of the Bilya Marlee (Indigenous Studies building) in 2020. They were grown from the seed of a Marri trees that had to be removed from the site during construction. By using the seeds of the Marri's from this site, this family of trees remains intact. For more information on this project see https://www.udla.com.au/projects/bilya-marlee-uwa",
+							"ImageURL": ""
+						}
 					},
-					"properties": {
-						"ObjectType": "Tree",
-						"ID": "Tree_2143",
-						"Species": "Eucalyptus cornuta",
-						"CommonName": "Yate",
-						"Significance": "Interesting tree",
-						"Note": "Nestled amongst a stand of Marri's in Prescott Court, this eucalypt tree is a little out of place. While endemic to the south-west of Western Australia (Bunbury to Esperance), this is the only Yate on campus. You can identify a Yate by their elongated and pointy operculum (the cap that covers the flower as it develops), which makes the cluster of budding flowers look like a sea anemone.",
-						"ImageURL": ""
-					}
-				},
-				{
-					"type": "Feature",
-					"geometry": {
-						"type": "Point",
-						"coordinates": [
-							115.8188318,
-							-31.98146115
-						]
+					{
+						"type": "Feature",
+						"geometry": {
+							"type": "Point",
+							"coordinates": [
+								115.8190355,
+								-31.98230975
+							]
+						},
+						"properties": {
+							"ObjectType": "Tree",
+							"ID": "Tree_2143",
+							"Species": "Eucalyptus cornuta",
+							"CommonName": "Yate",
+							"Significance": "Interesting tree",
+							"Note": "Nestled amongst a stand of Marri's in Prescott Court, this eucalypt tree is a little out of place. While endemic to the south-west of Western Australia (Bunbury to Esperance), this is the only Yate on campus. You can identify a Yate by their elongated and pointy operculum (the cap that covers the flower as it develops), which makes the cluster of budding flowers look like a sea anemone.",
+							"ImageURL": ""
+						}
 					},
-					"properties": {
-						"ObjectType": "Tree",
-						"ID": "Tree_2128",
-						"Species": "Corymbia citriodora",
-						"CommonName": "Lemon-Scented Gum",
-						"Significance": "Interesting tree",
-						"Note": "Knowledge and availability of local plants was poor in the 1970's, which is why you will find eastern states eucalypts -- like this one -- planted across Perth. This particular tree was planted by landscape architect Lady Jean Brodie-Hall in 1974 when the Psychology building was built. While many eastern state's trees have been replaced with natives across the campus, this one has been kept due to the way it's uniquely twisted trunk forms around and towers over the psychology building. It's a stunning tree to behold.",
-						"ImageURL": ""
-					}
-				},
-				{
-					"type": "Feature",
-					"geometry": {
-						"type": "Point",
-						"coordinates": [
-							115.8186745,
-							-31.98141548
-						]
+					{
+						"type": "Feature",
+						"geometry": {
+							"type": "Point",
+							"coordinates": [
+								115.8188318,
+								-31.98146115
+							]
+						},
+						"properties": {
+							"ObjectType": "Tree",
+							"ID": "Tree_2128",
+							"Species": "Corymbia citriodora",
+							"CommonName": "Lemon-Scented Gum",
+							"Significance": "Interesting tree",
+							"Note": "Knowledge and availability of local plants was poor in the 1970's, which is why you will find eastern states eucalypts -- like this one -- planted across Perth. This particular tree was planted by landscape architect Lady Jean Brodie-Hall in 1974 when the Psychology building was built. While many eastern state's trees have been replaced with natives across the campus, this one has been kept due to the way it's uniquely twisted trunk forms around and towers over the psychology building. It's a stunning tree to behold.",
+							"ImageURL": ""
+						}
 					},
-					"properties": {
-						"ObjectType": "Tree",
-						"ID": "Tree_2028",
-						"Species": "Dracena draco",
-						"CommonName": "Canary Islands dragon tree",
-						"Significance": "Interesting species",
-						"Note": "Sitting with pride of place in the centre of the Tattersall Lecture Theatre Garden, this species is recognised as endangered on the IUCN Red List. The species is native to the Canary Islands, Cape Verde, Madeira and western Morocco. When the bark or leaves are cut they secrete a reddish resin known as dragon's blood which has historically been used for artistic and medicinal purposes. There is a larger specimen of this species near Tuart House off Mounts Bay Road",
-						"ImageURL": ""
-					}
-				},
-				{
-					"type": "Feature",
-					"geometry": {
-						"type": "Point",
-						"coordinates": [
-							115.8179971,
-							-31.98104499
-						]
+					{
+						"type": "Feature",
+						"geometry": {
+							"type": "Point",
+							"coordinates": [
+								115.8186745,
+								-31.98141548
+							]
+						},
+						"properties": {
+							"ObjectType": "Tree",
+							"ID": "Tree_2028",
+							"Species": "Dracena draco",
+							"CommonName": "Canary Islands dragon tree",
+							"Significance": "Interesting species",
+							"Note": "Sitting with pride of place in the centre of the Tattersall Lecture Theatre Garden, this species is recognised as endangered on the IUCN Red List. The species is native to the Canary Islands, Cape Verde, Madeira and western Morocco. When the bark or leaves are cut they secrete a reddish resin known as dragon's blood which has historically been used for artistic and medicinal purposes. There is a larger specimen of this species near Tuart House off Mounts Bay Road",
+							"ImageURL": ""
+						}
 					},
-					"properties": {
-						"ObjectType": "Tree",
-						"ID": "Tree_3770",
-						"Species": "Acacia saligna",
-						"CommonName": "Orange Wattle",
-						"Significance": "Interesting tree",
-						"Note": "Cuttings from this stand of acacia trees have been donated over the years to Perth Zoo to be used as fodder for the elephants. These plants were a favourite of Tricia the elephant, before her death in July, 2022. The species is commonly found throughout the southwest of Western Australia, from the north of Geraldton to the east of Esperance.",
-						"ImageURL": ""
-					}
-				},
-				{
-					"type": "Feature",
-					"geometry": {
-						"type": "Point",
-						"coordinates": [
-							115.816959,
-							-31.97979331
-						]
+					{
+						"type": "Feature",
+						"geometry": {
+							"type": "Point",
+							"coordinates": [
+								115.8179971,
+								-31.98104499
+							]
+						},
+						"properties": {
+							"ObjectType": "Tree",
+							"ID": "Tree_3770",
+							"Species": "Acacia saligna",
+							"CommonName": "Orange Wattle",
+							"Significance": "Interesting tree",
+							"Note": "Cuttings from this stand of acacia trees have been donated over the years to Perth Zoo to be used as fodder for the elephants. These plants were a favourite of Tricia the elephant, before her death in July, 2022. The species is commonly found throughout the southwest of Western Australia, from the north of Geraldton to the east of Esperance.",
+							"ImageURL": ""
+						}
 					},
-					"properties": {
-						"ObjectType": "Tree",
-						"ID": "Tree_1762",
-						"Species": "Nuytsia floribunda",
-						"CommonName": "Australian Christmas tree",
-						"Significance": "Interesting species",
-						"Note": "Known as the Moojar tree to First Nation people, this species is highly spiritual because it is associated with the spirits of the dead who camped out on the branches and flowers of the tree on their way to Kurannup (the land of the ancestors across the Western ocean). Because of this, the tree was never used as shelter or food. Botanically, the species is unique because it is a hemi-parasite, meaning it partially relies on the nutrients it steals from other plants through it's roots. This is why Calothamnus quadrifidus shrubs are planted below (the silver, fluffy-looking plant), as they make great hosts.",
-						"ImageURL": ""
-					}
-				},
-				{
-					"type": "Feature",
-					"geometry": {
-						"type": "Point",
-						"coordinates": [
-							115.8164384,
-							-31.97937367
-						]
+					{
+						"type": "Feature",
+						"geometry": {
+							"type": "Point",
+							"coordinates": [
+								115.816959,
+								-31.97979331
+							]
+						},
+						"properties": {
+							"ObjectType": "Tree",
+							"ID": "Tree_1762",
+							"Species": "Nuytsia floribunda",
+							"CommonName": "Australian Christmas tree",
+							"Significance": "Interesting species",
+							"Note": "Known as the Moojar tree to First Nation people, this species is highly spiritual because it is associated with the spirits of the dead who camped out on the branches and flowers of the tree on their way to Kurannup (the land of the ancestors across the Western ocean). Because of this, the tree was never used as shelter or food. Botanically, the species is unique because it is a hemi-parasite, meaning it partially relies on the nutrients it steals from other plants through it's roots. This is why Calothamnus quadrifidus shrubs are planted below (the silver, fluffy-looking plant), as they make great hosts.",
+							"ImageURL": ""
+						}
 					},
-					"properties": {
-						"ObjectType": "Tree",
-						"ID": "Tree_1133",
-						"Species": "Eucalyptus marginata",
-						"CommonName": "Jarrah",
-						"Significance": "Interesting tree",
-						"Note": "Jarrah trees are one of the most common Eucalyptus species native the the Perth region, along with the Marri and Tuart. This tree towers above the mathematics courtyard at 30m tall and looks over a huge slab of petrified wood. The origin of this sculpture is unknown, but we ecourage you to stop and take a look at the crystals within the tree rings and the detail locked away in this amazing natural sculpture.",
-						"ImageURL": ""
-					}
-				},
-				{
-					"type": "Feature",
-					"geometry": {
-						"type": "Point",
-						"coordinates": [
-							115.8168743,
-							-31.97672619
-						]
+					{
+						"type": "Feature",
+						"geometry": {
+							"type": "Point",
+							"coordinates": [
+								115.8164384,
+								-31.97937367
+							]
+						},
+						"properties": {
+							"ObjectType": "Tree",
+							"ID": "Tree_1133",
+							"Species": "Eucalyptus marginata",
+							"CommonName": "Jarrah",
+							"Significance": "Interesting tree",
+							"Note": "Jarrah trees are one of the most common Eucalyptus species native the the Perth region, along with the Marri and Tuart. This tree towers above the mathematics courtyard at 30m tall and looks over a huge slab of petrified wood. The origin of this sculpture is unknown, but we ecourage you to stop and take a look at the crystals within the tree rings and the detail locked away in this amazing natural sculpture.",
+							"ImageURL": ""
+						}
 					},
-					"properties": {
-						"ObjectType": "Tree",
-						"ID": "Tree_412",
-						"Species": "Corymbia calopylla",
-						"CommonName": "Marri",
-						"Significance": "Interesting species",
-						"Note": "Marri trees have histrically been an important resource for First Nation people. The sap has medicinal properties and is useful for tannning kangaroo skins, while the wood was used to create many different tools. The species is also a key to the conservation of native parrots such as Carnabys Cockatoo, which feast on the large 'Honkey Nuts' on their way through Perth.",
-						"ImageURL": ""
-					}
-				},
-				{
-					"type": "Feature",
-					"geometry": {
-						"type": "Point",
-						"coordinates": [
-							115.819978,
-							-31.982928
-						]
+					{
+						"type": "Feature",
+						"geometry": {
+							"type": "Point",
+							"coordinates": [
+								115.8168743,
+								-31.97672619
+							]
+						},
+						"properties": {
+							"ObjectType": "Tree",
+							"ID": "Tree_412",
+							"Species": "Corymbia calopylla",
+							"CommonName": "Marri",
+							"Significance": "Interesting species",
+							"Note": "Marri trees have histrically been an important resource for First Nation people. The sap has medicinal properties and is useful for tannning kangaroo skins, while the wood was used to create many different tools. The species is also a key to the conservation of native parrots such as Carnabys Cockatoo, which feast on the large 'Honkey Nuts' on their way through Perth.",
+							"ImageURL": ""
+						}
 					},
-					"properties": {
-						"ObjectType": "Art",
-						"ID": "Art_001",
-						"Title": "Spirit of Progress",
-						"Artist": "Edward Kohler",
-						"YearInstalled": "1938",
-						"Note": "This large bas-relief panel of Ceres, the Roman goddess of agriculture, is located on the art-deco building that housed one of the first faculties at UWA. It depicts Ceres holding a pumpkin, a sheaf of wheat and vegetables in the fold of her gown. Six smaller panels represent aspects of the agricultural industry.",
-						"ImageURL": ""
-					}
-				},
-				{
-					"type": "Feature",
-					"geometry": {
-						"type": "Point",
-						"coordinates": [
-							115.819476,
-							-31.98266
-						]
+					{
+						"type": "Feature",
+						"geometry": {
+							"type": "Point",
+							"coordinates": [
+								115.819978,
+								-31.982928
+							]
+						},
+						"properties": {
+							"ObjectType": "Art",
+							"ID": "Art_001",
+							"Title": "Spirit of Progress",
+							"Artist": "Edward Kohler",
+							"YearInstalled": "1938",
+							"Note": "This large bas-relief panel of Ceres, the Roman goddess of agriculture, is located on the art-deco building that housed one of the first faculties at UWA. It depicts Ceres holding a pumpkin, a sheaf of wheat and vegetables in the fold of her gown. Six smaller panels represent aspects of the agricultural industry.",
+							"ImageURL": ""
+						}
 					},
-					"properties": {
-						"ObjectType": "Art",
-						"ID": "Art_002",
-						"Title": "Cellular Curios",
-						"Artist": "Kate Cullity and TCL",
-						"YearInstalled": "2021",
-						"Note": "This sculpture sits amongst a stand of Marri's in Prescott Court and is inspired by research conducted at UWA. It was donated by the UWA Friends of the Grounds.",
-						"ImageURL": ""
-					}
-				},
-				{
-					"type": "Feature",
-					"geometry": {
-						"type": "Point",
-						"coordinates": [
-							115.818782,
-							-31.982421
-						]
+					{
+						"type": "Feature",
+						"geometry": {
+							"type": "Point",
+							"coordinates": [
+								115.819476,
+								-31.98266
+							]
+						},
+						"properties": {
+							"ObjectType": "Art",
+							"ID": "Art_002",
+							"Title": "Cellular Curios",
+							"Artist": "Kate Cullity and TCL",
+							"YearInstalled": "2021",
+							"Note": "This sculpture sits amongst a stand of Marri's in Prescott Court and is inspired by research conducted at UWA. It was donated by the UWA Friends of the Grounds.",
+							"ImageURL": ""
+						}
 					},
-					"properties": {
-						"ObjectType": "Art",
-						"ID": "Art_003",
-						"Title": "Analemma",
-						"Artist": "Robert J. Collins",
-						"YearInstalled": "Unknown",
-						"Note": "The Analemma was designed, patented, fabricated and donated to the University by Robert J. Collins, a retired engineer. It differs from a sundial in that it gives both the date and the accurate clock time throughout the day, without having to be corrected from tables, as well as displaying sun transits and almanac markings.",
-						"ImageURL": ""
-					}
-				},
-				{
-					"type": "Feature",
-					"geometry": {
-						"type": "Point",
-						"coordinates": [
-							115.817674,
-							-31.980942
-						]
+					{
+						"type": "Feature",
+						"geometry": {
+							"type": "Point",
+							"coordinates": [
+								115.818782,
+								-31.982421
+							]
+						},
+						"properties": {
+							"ObjectType": "Art",
+							"ID": "Art_003",
+							"Title": "Analemma",
+							"Artist": "Robert J. Collins",
+							"YearInstalled": "Unknown",
+							"Note": "The Analemma was designed, patented, fabricated and donated to the University by Robert J. Collins, a retired engineer. It differs from a sundial in that it gives both the date and the accurate clock time throughout the day, without having to be corrected from tables, as well as displaying sun transits and almanac markings.",
+							"ImageURL": ""
+						}
 					},
-					"properties": {
-						"ObjectType": "Art",
-						"ID": "Art_004",
-						"Title": "Muriel and Colin Ramm Sundial",
-						"Artist": "Dr Anthony Sprent & UWA Workshop",
-						"YearInstalled": "2022",
-						"Note": "This sundial was designed by Dr Anthony Sprent with support from the UWA Workshop and a donation from the Ramm family.",
-						"ImageURL": ""
-					}
-				},
-				{
-					"type": "Feature",
-					"geometry": {
-						"type": "Point",
-						"coordinates": [
-							115.817029,
-							-31.979398
-						]
+					{
+						"type": "Feature",
+						"geometry": {
+							"type": "Point",
+							"coordinates": [
+								115.817674,
+								-31.980942
+							]
+						},
+						"properties": {
+							"ObjectType": "Art",
+							"ID": "Art_004",
+							"Title": "Muriel and Colin Ramm Sundial",
+							"Artist": "Dr Anthony Sprent & UWA Workshop",
+							"YearInstalled": "2022",
+							"Note": "This sundial was designed by Dr Anthony Sprent with support from the UWA Workshop and a donation from the Ramm family.",
+							"ImageURL": ""
+						}
 					},
-					"properties": {
-						"ObjectType": "Art",
-						"ID": "Art_005",
-						"Title": "Bust of Professor A.L (Larry) Blakers AM",
-						"Artist": "Unknown",
-						"YearInstalled": "2016",
-						"Note": "This bust is in honour of Professor A.L (Larry) Blakers (1919-1995) for his long and dedicated service to mathematics and mathematics education in Australia. He worked for the University as Head of the Department of Mathematics from 1952 to 1992, and was an Emeritus Professor from 1983 until his death in 1995.",
-						"ImageURL": ""
-					}
-				},
-				{
-					"type": "Feature",
-					"geometry": {
-						"type": "Point",
-						"coordinates": [
-							115.816441,
-							-31.977794
-						]
+					{
+						"type": "Feature",
+						"geometry": {
+							"type": "Point",
+							"coordinates": [
+								115.817029,
+								-31.979398
+							]
+						},
+						"properties": {
+							"ObjectType": "Art",
+							"ID": "Art_005",
+							"Title": "Bust of Professor A.L (Larry) Blakers AM",
+							"Artist": "Unknown",
+							"YearInstalled": "2016",
+							"Note": "This bust is in honour of Professor A.L (Larry) Blakers (1919-1995) for his long and dedicated service to mathematics and mathematics education in Australia. He worked for the University as Head of the Department of Mathematics from 1952 to 1992, and was an Emeritus Professor from 1983 until his death in 1995.",
+							"ImageURL": ""
+						}
 					},
-					"properties": {
-						"ObjectType": "Art",
-						"ID": "Art_006",
-						"Title": "Orbicular Garnitoid",
-						"Artist": "",
-						"YearInstalled": "",
-						"Note": "Donated to the Edward de Courcy Clarke Earth Science Museum by Mark Creasy.",
-						"ImageURL": ""
-					}
-				},
-				{
-					"type": "Feature",
-					"geometry": {
-						"type": "Point",
-						"coordinates": [
-							115.816388,
-							-31.976847
-						]
+					{
+						"type": "Feature",
+						"geometry": {
+							"type": "Point",
+							"coordinates": [
+								115.816441,
+								-31.977794
+							]
+						},
+						"properties": {
+							"ObjectType": "Art",
+							"ID": "Art_006",
+							"Title": "Orbicular Garnitoid",
+							"Artist": "",
+							"YearInstalled": "",
+							"Note": "Donated to the Edward de Courcy Clarke Earth Science Museum by Mark Creasy.",
+							"ImageURL": ""
+						}
 					},
-					"properties": {
-						"ObjectType": "Art",
-						"ID": "Art_007",
-						"Title": "Homo Fallible",
-						"Artist": "Hans Arkeveld",
-						"YearInstalled": "1990",
-						"Note": "Originally created by Hans Arkeveld in 1942, Homo Fallible was installed at UWA in 1990.",
-						"ImageURL": ""
-					}
-				},
-				{
-					"type": "Feature",
-					"geometry": {
-						"type": "Point",
-						"coordinates": [
-							115.816336,
-							-31.976609
-						]
+					{
+						"type": "Feature",
+						"geometry": {
+							"type": "Point",
+							"coordinates": [
+								115.816388,
+								-31.976847
+							]
+						},
+						"properties": {
+							"ObjectType": "Art",
+							"ID": "Art_007",
+							"Title": "Homo Fallible",
+							"Artist": "Hans Arkeveld",
+							"YearInstalled": "1990",
+							"Note": "Originally created by Hans Arkeveld in 1942, Homo Fallible was installed at UWA in 1990.",
+							"ImageURL": ""
+						}
 					},
-					"properties": {
-						"ObjectType": "Art",
-						"ID": "Art_008",
-						"Title": "Plant Form",
-						"Artist": "Robert Juniper",
-						"YearInstalled": "1974",
-						"Note": "In this large steel sculpture, the structure of a plant is investigated through a semi-abstract rendering. Robert's art is deeply inspired by the natural world, particularly the unique landscapes of Western Australia.",
-						"ImageURL": ""
+					{
+						"type": "Feature",
+						"geometry": {
+							"type": "Point",
+							"coordinates": [
+								115.816336,
+								-31.976609
+							]
+						},
+						"properties": {
+							"ObjectType": "Art",
+							"ID": "Art_008",
+							"Title": "Plant Form",
+							"Artist": "Robert Juniper",
+							"YearInstalled": "1974",
+							"Note": "In this large steel sculpture, the structure of a plant is investigated through a semi-abstract rendering. Robert's art is deeply inspired by the natural world, particularly the unique landscapes of Western Australia.",
+							"ImageURL": ""
+						}
 					}
-				}
-			]
+				]
+			}
 		}
 	},
 	{
 		"Walk": "Test Walk",
 		"geojson": {
-			"type": "FeatureCollection",
-			"features": [
-				{
-					"type": "Feature",
-					"geometry": {
-						"type": "Point",
-						"coordinates": [
+			"path": {
+				"type": "Feature",
+				"geometry": {
+					"type": "LineString",
+					"coordinates": [
+						[
 							115.817969,
 							-31.980215
+						],
+						[
+							115.8179,
+							-31.9802
 						]
-					},
-					"properties": {
-						"ObjectType": "Tree",
-						"ID": "Test"
+					]
+				},
+				"properties": {}
+			},
+			"points": {
+				"type": "FeatureCollection",
+				"features": [
+					{
+						"type": "Feature",
+						"geometry": {
+							"type": "Point",
+							"coordinates": [
+								115.817969,
+								-31.980215
+							]
+						},
+						"properties": {
+							"ObjectType": "Tree",
+							"ID": "Test"
+						}
 					}
-				}
-			]
+				]
+			}
 		}
 	}
 ]
