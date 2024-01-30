@@ -56,16 +56,16 @@
 							-31.979648
 						],
 						[
-							115.81695,
-							-31.97963
+							115.817281,
+							-31.979259
 						],
 						[
-							115.816912,
-							-31.979202
+							115.817209,
+							-31.978101
 						],
 						[
-							115.816418,
-							-31.979212
+							115.816489,
+							-31.978078
 						],
 						[
 							115.81644,
@@ -154,7 +154,7 @@
 							"Species": "Corymbia calopylla",
 							"CommonName": "Marri",
 							"Significance": "Cultural",
-							"Note": "Located around Bilya Marlee (Indigenous Studies building), this family of Marri trees are some of the oldest on campus, and some even pre-date the university. Culturally, these trees are considered a family providing spiritual and physical links to the past. Infact, the building was designed around these trees to keep the family intact. The garden they reside in is called Borne Wirn, meaning 'spirit of the trees'. For more information on this project click <a href='https://www.udla.com.au/projects/bilya-marlee-uwa' target='_blank'>here</a>",
+							"Note": "Located around Bilya Marlee (Indigenous Studies building), this family of Marri trees are some of the oldest on campus, and some even pre-date the university. Culturally, these trees are considered a family providing spiritual and physical links to the past. Infact, the building was designed around these trees to keep the family intact. The garden they reside in is called Borne Wirn, meaning 'spirit of the trees'. For more information on this project click <a href='https://www.udla.com.au/projects/bilya-marlee-uwa' target='_blank'>here</a>.",
 							"ImageURL": "/fig.jpg"
 						}
 					},
@@ -173,7 +173,7 @@
 							"Species": "Corymbia calopylla",
 							"CommonName": "Marri",
 							"Significance": "Cultural",
-							"Note": "This stand of Marri's was planted after the completion of the Bilya Marlee (Indigenous Studies building) in 2020. They were grown from the seed of a Marri trees that had to be removed from the site during construction. By using the seeds of the Marri's from this site, this family of trees remains intact. For more information on this project click <a href='https://www.udla.com.au/projects/bilya-marlee-uwa' target='_blank'>here</a>",
+							"Note": "This stand of Marri's was planted after the completion of the Bilya Marlee (Indigenous Studies building) in 2020. They were grown from the seed of a Marri trees that had to be removed from the site during construction. By using the seeds of the Marri's from this site, this family of trees remains intact. For more information on this project click <a href='https://www.udla.com.au/projects/bilya-marlee-uwa' target='_blank'>here</a>.",
 							"ImageURL": "/fig.jpg"
 						}
 					},
@@ -269,25 +269,6 @@
 							"CommonName": "Australian Christmas tree",
 							"Significance": "Interesting species",
 							"Note": "Known as the Moojar tree to Whadjuk Noongar people, this species is highly spiritual because it is associated with the spirits of the dead who camped out on the branches and flowers of the tree on their way to Kurannup (the land of the ancestors across the Western ocean). Because of this, the tree was never used as shelter or food. Botanically, the species is unique because it is a hemi-parasite, meaning it partially relies on the nutrients it steals from other plants through it's roots. This is why Calothamnus quadrifidus shrubs are planted below (the silver, fluffy-looking plant), as they make great hosts.",
-							"ImageURL": "/fig.jpg"
-						}
-					},
-					{
-						"type": "Feature",
-						"geometry": {
-							"type": "Point",
-							"coordinates": [
-								115.8164384,
-								-31.97937367
-							]
-						},
-						"properties": {
-							"ObjectType": "Tree",
-							"ID": "Tree_1133",
-							"Species": "Eucalyptus marginata",
-							"CommonName": "Jarrah",
-							"Significance": "Interesting tree",
-							"Note": "Jarrah trees are one of the most common Eucalyptus species native the the Perth region, along with the Marri and Tuart. This tree towers above the mathematics courtyard at 30m tall and looks over a huge slab of petrified wood. The origin of this sculpture is unknown, but we ecourage you to stop and take a look at the crystals within the tree rings and the detail locked away in this amazing natural sculpture.",
 							"ImageURL": "/fig.jpg"
 						}
 					},
@@ -501,6 +482,30 @@
 						"properties": {
 							"ObjectType": "Tree",
 							"ID": "Test"
+							"Species": "Test",
+							"CommonName": "Test",
+							"Significance": "Test",
+							"Note": "This is a test POI.",
+							"ImageURL": "/fig.jpg"
+						}
+					},
+					{
+						"type": "Feature",
+						"geometry": {
+							"type": "Point",
+							"coordinates": [
+								115.8164384,
+								-31.97937367
+							]
+						},
+						"properties": {
+							"ObjectType": "Tree",
+							"ID": "Tree_1133",
+							"Species": "Eucalyptus marginata",
+							"CommonName": "Jarrah",
+							"Significance": "Interesting tree",
+							"Note": "Jarrah trees are one of the most common Eucalyptus species native the the Perth region, along with the Marri and Tuart. This tree towers above the mathematics courtyard at 30m tall and looks over a huge slab of petrified wood. The origin of this sculpture is unknown, but we ecourage you to stop and take a look at the crystals within the tree rings and the detail locked away in this amazing natural sculpture.",
+							"ImageURL": "/fig.jpg"
 						}
 					}
 				]
