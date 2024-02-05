@@ -461,13 +461,33 @@
 							"ImageURL": "/CellularCurios.jpg",
 							"QRID": "QR19"
 						}
+					},
+					{
+						"type": "Feature",
+						"geometry": {
+							"type": "Point",
+							"coordinates": [
+								115.817451,
+								-31.97855877
+							]
+						},
+						"properties": {
+							"ObjectType": "Tree",
+							"ID": "Tree_955",
+							"Species": "Corymbia citriodora",
+							"CommonName": "Lemon-Scented Gum",
+							"Significance": "Interesting Tree",
+							"Note": "This enormous tree pre-dates Reid Library (built in 1964) as it was planted by Oliver Dowell (UWA head gardener between 1930-46) in the early 1930s. The unique form of this tree (compared to others of its species) is due the influence of two distinct water regimes during its growth: short and stunted when water supply was limited in the Great Court, and then abundant growth when the taps were finally turned on. This tree originally had a partner on the other side of the library, which was removed after one of it's limbs fell on a man and broke his arm.",
+							"ImageURL": "/fig.jpg",
+							"QRID": "QR23"
+						}
 					}
 				]
 			}
 		}
 	},
 	{
-		"Walk": "Test Walk",
+		"Walk": "Temp For Note",
 		"geojson": {
 			"path": {
 				"type": "Feature",
@@ -528,10 +548,6 @@
 						[
 							115.817252,
 							-31.978085
-						],
-						[
-							115.817507,
-							-31.97841
 						],
 						[
 							115.8181,
@@ -618,26 +634,6 @@
 							"Note": "In regognition of the distinguished service of Sir Lawrence Walter Jackson. Cheif Justice of Western Australia 1969-1977. Chancellor of UWA 1968-1981",
 							"ImageURL": "/CellularCurios.jpg",
 							"QRID": "QR22"
-						}
-					},
-					{
-						"type": "Feature",
-						"geometry": {
-							"type": "Point",
-							"coordinates": [
-								115.817451,
-								-31.97855877
-							]
-						},
-						"properties": {
-							"ObjectType": "Tree",
-							"ID": "Tree_955",
-							"Species": "Corymbia citriodora",
-							"CommonName": "Lemon-Scented Gum",
-							"Significance": "Interesting Tree",
-							"Note": "This enormous tree pre-dates Reid Library (built in 1964) as it was planted by Oliver Dowell (UWA head gardener between 1930-46) in the early 1930s. The unique form of this tree (compared to others of its species) is due the influence of two distinct water regimes during its growth: short and stunted when water supply was limited in the Great Court, and then abundant growth when the taps were finally turned on. This tree originally had a partner on the other side of the library, which was removed after one of it's limbs fell on a man and broke his arm.",
-							"ImageURL": "/fig.jpg",
-							"QRID": "QR23"
 						}
 					},
 					{
