@@ -494,17 +494,17 @@
 						"geometry": {
 							"type": "Point",
 							"coordinates": [
-								115.817969,
-								-31.980215
+								115.8164384,
+								-31.97937367
 							]
 						},
 						"properties": {
 							"ObjectType": "Tree",
-							"ID": "Test",
-							"Species": "Test",
-							"CommonName": "Test",
-							"Significance": "Test",
-							"Note": "This is a test POI.",
+							"ID": "Tree_1133",
+							"Species": "Eucalyptus marginata",
+							"CommonName": "Jarrah",
+							"Significance": "Interesting tree",
+							"Note": "Jarrah trees are one of the most common Eucalyptus species native the the Perth region, along with the Marri and Tuart. This tree towers above the mathematics courtyard at 30m tall and looks over a huge slab of petrified wood. The origin of this sculpture is unknown, but we ecourage you to stop and take a look at the crystals within the tree rings and the detail locked away in this amazing natural sculpture.",
 							"ImageURL": "/fig.jpg",
 							"QRID": "QR99"
 						}
@@ -646,7 +646,7 @@
 							"type": "Point",
 							"coordinates": [
 								115.81748449,
-								-31.980215
+								-31.97803713
 							]
 						},
 						"properties": {
