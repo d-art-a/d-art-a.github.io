@@ -316,7 +316,7 @@
 							"ID": "Art_001",
 							"Title": "Spirit of Progress",
 							"Artist": "Edward Kohler",
-							"YearInstalled": "1938",
+							"Year": "1938",
 							"Note": "This large bas-relief panel of Ceres, the Roman goddess of agriculture, is located on the art-deco building that housed one of the first faculties at UWA. It depicts Ceres holding a pumpkin, a sheaf of wheat and vegetables in the fold of her gown. Six smaller panels represent aspects of the agricultural industry.",
 							"ImageURL": "/CellularCurios.jpg",
 							"QRID": "QR12"
@@ -336,7 +336,7 @@
 							"ID": "Art_002",
 							"Title": "Cellular Curios",
 							"Artist": "Kate Cullity and TCL",
-							"YearInstalled": "2021",
+							"Year": "2021",
 							"Note": "This sculpture sits amongst a stand of Marri's in Prescott Court and is inspired by research conducted at UWA. It was donated by the UWA Friends of the Grounds.",
 							"ImageURL": "/CellularCurios.jpg",
 							"QRID": "QR13"
@@ -356,7 +356,7 @@
 							"ID": "Art_003",
 							"Title": "Analemma",
 							"Artist": "Robert J. Collins",
-							"YearInstalled": "Unknown",
+							"Year": "Unknown",
 							"Note": "The Analemma was designed, patented, fabricated and donated to the University by Robert J. Collins, a retired engineer. It differs from a sundial in that it gives both the date and the accurate clock time throughout the day, without having to be corrected from tables, as well as displaying sun transits and almanac markings.",
 							"ImageURL": "/CellularCurios.jpg",
 							"QRID": "QR14"
@@ -376,7 +376,7 @@
 							"ID": "Art_004",
 							"Title": "Muriel and Colin Ramm Sundial",
 							"Artist": "Dr Anthony Sprent & UWA Workshop",
-							"YearInstalled": "2022",
+							"Year": "2022",
 							"Note": "This sundial was designed by Dr Anthony Sprent with support from the UWA Workshop and a donation from the Ramm family.",
 							"ImageURL": "/CellularCurios.jpg",
 							"QRID": "QR15"
@@ -396,7 +396,7 @@
 							"ID": "Art_005",
 							"Title": "Bust of Professor A.L (Larry) Blakers AM",
 							"Artist": "Unknown",
-							"YearInstalled": "2016",
+							"Year": "2016",
 							"Note": "This bust is in honour of Professor A.L (Larry) Blakers (1919-1995) for his long and dedicated service to mathematics and mathematics education in Australia. He worked for the University as Head of the Department of Mathematics from 1952 to 1992, and was an Emeritus Professor from 1983 until his death in 1995.",
 							"ImageURL": "/CellularCurios.jpg",
 							"QRID": "QR16"
@@ -415,8 +415,8 @@
 							"ObjectType": "Art",
 							"ID": "Art_006",
 							"Title": "Orbicular Garnitoid",
-							"Artist": "",
-							"YearInstalled": "",
+							"Artist": "Unknown",
+							"Year": "Unknown",
 							"Note": "Donated to the Edward de Courcy Clarke Earth Science Museum by Mark Creasy.",
 							"ImageURL": "/CellularCurios.jpg",
 							"QRID": "QR17"
@@ -436,8 +436,8 @@
 							"ID": "Art_007",
 							"Title": "Homo Fallible",
 							"Artist": "Hans Arkeveld",
-							"YearInstalled": "1990",
-							"Note": "Originally created by Hans Arkeveld in 1942, Homo Fallible was installed at UWA in 1990.",
+							"Year": "1942",
+							"Note": "Homo Fallible was installed at UWA in 1990.",
 							"ImageURL": "/CellularCurios.jpg",
 							"QRID": "QR18"
 						}
@@ -456,7 +456,7 @@
 							"ID": "Art_008",
 							"Title": "Plant Form",
 							"Artist": "Robert Juniper",
-							"YearInstalled": "1974",
+							"Year": "1974",
 							"Note": "In this large steel sculpture, the structure of a plant is investigated through a semi-abstract rendering. Robert's art is deeply inspired by the natural world, particularly the unique landscapes of Western Australia.",
 							"ImageURL": "/CellularCurios.jpg",
 							"QRID": "QR19"
@@ -506,6 +506,77 @@
 							"Significance": "Test",
 							"Note": "This is a test POI.",
 							"ImageURL": "/fig.jpg",
+							"QRID": "QR99"
+						}
+					}
+				]
+			}
+		}
+	},
+	{
+		"Walk": "Battye Walk",
+		"geojson": {
+			"path": {
+				"type": "Feature",
+				"geometry": {
+					"type": "LineString",
+					"coordinates": [
+						[
+							115.816113,
+							-31.978147
+						],
+						[
+							115.817252,
+							-31.978085
+						],
+						[
+							115.817507,
+							-31.97841
+						],
+						[
+							115.8181,
+							-31.978318
+						],
+						[
+							115.818298,
+							-31.977606
+						],
+						[
+							115.81892,
+							-31.977135
+						],
+						[
+							115.818901,
+							-31.976735
+						],
+						[
+							115.819982,
+							-31.976656
+						]
+					]
+				},
+				"properties": {}
+			},
+			"points": {
+				"type": "FeatureCollection",
+				"features": [
+					{
+						"type": "Feature",
+						"geometry": {
+							"type": "Point",
+							"coordinates": [
+								115.817178,
+								-31.977955
+							]
+						},
+						"properties": {
+							"ObjectType": "Art",
+							"ID": "Art_009",
+							"Title": "Chemistry panels",
+							"Artist": "Unknown",
+							"Year": "Unknown",
+							"Note": "The Chemistry bas-relief includes: Joseph Priestly (pneumatic chemistry, study of gases), John Dalton (atomic theory), Robert Boyle (pressure and gas laws), Michael Faraday (electro-magnetism) and William Henry Perkin (aniline dyes)",
+							"ImageURL": "/CellularCurios.jpg",
 							"QRID": "QR20"
 						}
 					},
@@ -514,19 +585,179 @@
 						"geometry": {
 							"type": "Point",
 							"coordinates": [
-								115.8164384,
-								-31.97937367
+								115.81902,
+								-31.977433
+							]
+						},
+						"properties": {
+							"ObjectType": "Art",
+							"ID": "Art_010",
+							"Title": "The Black Stump",
+							"Artist": "Howard Taylor",
+							"Year": "1975",
+							"Note": "The three sculptural elements placed around a circle of black marble embedded in the paving evolved from a drawing and tempera painting of a burnt tree the artist made twenty-five years earlier. The long gestation of ideas is evident in all Howard Taylor's work, and this project exemplifies the important process of reduction down to fundamentals.",
+							"ImageURL": "/CellularCurios.jpg",
+							"QRID": "QR21"
+						}
+					},
+					{
+						"type": "Feature",
+						"geometry": {
+							"type": "Point",
+							"coordinates": [
+								115.819128,
+								-31.976848
+							]
+						},
+						"properties": {
+							"ObjectType": "Art",
+							"ID": "Art_011",
+							"Title": "The Dancer",
+							"Artist": "Greg James",
+							"Year": "Unknown",
+							"Note": "In regognition of the distinguished service of Sir Lawrence Walter Jackson. Cheif Justice of Western Australia 1969-1977. Chancellor of UWA 1968-1981",
+							"ImageURL": "/CellularCurios.jpg",
+							"QRID": "QR22"
+						}
+					},
+					{
+						"type": "Feature",
+						"geometry": {
+							"type": "Point",
+							"coordinates": [
+								115.817451,
+								-31.97855877
 							]
 						},
 						"properties": {
 							"ObjectType": "Tree",
-							"ID": "Tree_1133",
+							"ID": "Tree_955",
+							"Species": "Corymbia citriodora",
+							"CommonName": "Lemon-Scented Gum",
+							"Significance": "Interesting Tree",
+							"Note": "This enormous tree pre-dates Reid Library (built in 1964) as it was planted by Oliver Dowell (UWA head gardener between 1930-46) in the early 1930s. The unique form of this tree (compared to others of its species) is due the influence of two distinct water regimes during its growth: short and stunted when water supply was limited in the Great Court, and then abundant growth when the taps were finally turned on. This tree originally had a partner on the other side of the library, which was removed after one of it's limbs fell on a man and broke his arm.",
+							"ImageURL": "/fig.jpg",
+							"QRID": "QR23"
+						}
+					},
+					{
+						"type": "Feature",
+						"geometry": {
+							"type": "Point",
+							"coordinates": [
+								115.81748449,
+								-31.980215
+							]
+						},
+						"properties": {
+							"ObjectType": "Tree",
+							"ID": "Tree_966",
+							"Species": "Liquidambar styraciflua",
+							"CommonName": "American storax",
+							"Significance": "Interesting Tree",
+							"Note": "This species is native to warm temperate areas of eastern North America and tropical montane regions of Mexico and Central America. This tree has been growing in the Great Court since at least before the 1960, as it appears in a map drawn by Lecturer in Botany, Dr. Gordon G. Smith, back in the early 1960s (G.Seddon and G.Lilleyman, A Landscape For Learning, 2006).",
+							"ImageURL": "/fig.jpg",
+							"QRID": "QR24"
+						}
+					},
+					{
+						"type": "Feature",
+						"geometry": {
+							"type": "Point",
+							"coordinates": [
+								115.818037,
+								-31.97808937
+							]
+						},
+						"properties": {
+							"ObjectType": "Tree",
+							"ID": "Tree_3660",
+							"Species": "Wollemia nobilis",
+							"CommonName": "Wollemi pine",
+							"Significance": "Interesting Species",
+							"Note": "Although this little tree may not look very impressive now, its species is one of the world's oldest and rarest plants, dating back to the time of the dinosaurs. The species was discovered in Eastern Australia in 1994 with less than 40 mature individuals remaining in the wild and is thus considered critically endangered. The whole population was nearly wiped out in 2020 by the Black Summer bushfires. Despite being called a pine, the species is not part of the Pinus family.",
+							"ImageURL": "/fig.jpg",
+							"QRID": "QR25"
+						}
+					},
+					{
+						"type": "Feature",
+						"geometry": {
+							"type": "Point",
+							"coordinates": [
+								115.8181309,
+								-31.97827436
+							]
+						},
+						"properties": {
+							"ObjectType": "Tree",
+							"ID": "Tree_1031",
+							"Species": "Ficus microcarpa (var. hillii)",
+							"CommonName": "Curtain Fig",
+							"Significance": "Historic",
+							"Note": "This tree was planted by Her Majesty Queen Elizabeth II and Prince Philip, to commemorate the Jubilee Year, March 1963.",
+							"ImageURL": "/fig.jpg",
+							"QRID": "QR26"
+						}
+					},
+					{
+						"type": "Feature",
+						"geometry": {
+							"type": "Point",
+							"coordinates": [
+								115.8182304,
+								-31.97768613
+							]
+						},
+						"properties": {
+							"ObjectType": "Tree",
+							"ID": "Tree_1007",
 							"Species": "Eucalyptus marginata",
 							"CommonName": "Jarrah",
-							"Significance": "Interesting tree",
-							"Note": "Jarrah trees are one of the most common Eucalyptus species native the the Perth region, along with the Marri and Tuart. This tree towers above the mathematics courtyard at 30m tall and looks over a huge slab of petrified wood. The origin of this sculpture is unknown, but we ecourage you to stop and take a look at the crystals within the tree rings and the detail locked away in this amazing natural sculpture.",
+							"Significance": "Cultural",
+							"Note": "This tree is incredibly important as it significantly pre-dates the university. Thanks to a core sample which still exits and is kept at the School of Botany, it is estimated to be 640-660 years old. The tree has also been  identified as a way-finding marker for indigenous people.",
 							"ImageURL": "/fig.jpg",
-							"QRID": "QR21"
+							"QRID": "QR27"
+						}
+					},
+					{
+						"type": "Feature",
+						"geometry": {
+							"type": "Point",
+							"coordinates": [
+								115.818335,
+								-31.97724254
+							]
+						},
+						"properties": {
+							"ObjectType": "Tree",
+							"ID": "Tree_1078",
+							"Species": "Ficus macrophylla",
+							"CommonName": "Moreton Bay fig",
+							"Significance": "Important Tree",
+							"Note": "This fig is considered the most iconic tree on campus and is a well-known meeting place. Once spanning the entire length of path from Winthrop Hall to Djeran Bidi intersection, the tree lost two massive limbs in November 2018. Stories say that the tree was planted by garden labourer George Munns who dug a big hole, threw in a dead cow and planted the tree back in 1932. Munns was appointed Curator of Grounds in 1955 and retired in 1972 and has a plaque in the Tropical Grove. The tree has a total biomass of 9,190kg, and stores 5,744 kg of carbon.",
+							"ImageURL": "/fig.jpg",
+							"QRID": "QR28"
+						}
+					},
+					{
+						"type": "Feature",
+						"geometry": {
+							"type": "Point",
+							"coordinates": [
+								115.81895759,
+								-31.97672489
+							]
+						},
+						"properties": {
+							"ObjectType": "Tree",
+							"ID": "Tree_817",
+							"Species": "Agathis robusta",
+							"CommonName": "Queensland kauri",
+							"Significance": "",
+							"Note": "This stand of trees were grown from seed provided by the Queensland Forestry Department in 1946 and now tower over the landscape. Their long straight trunks seem to go on forever, so try not to get vertigo when looking up into the canopy.",
+							"ImageURL": "/fig.jpg",
+							"QRID": "QR29"
 						}
 					}
 				]
