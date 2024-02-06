@@ -36,6 +36,10 @@
 							-31.982722
 						],
 						[
+							115.819337,
+							-31.982700
+						],
+						[
 							115.818746,
 							-31.982408
 						],
@@ -44,8 +48,12 @@
 							-31.980961
 						],
 						[
-							115.817663,
-							-31.980913
+							115.817802,
+							-31.980989
+						],
+						[
+							115.817380,
+							-31.980797
 						],
 						[
 							115.817143,
@@ -76,8 +84,16 @@
 							-31.976807
 						],
 						[
-							115.816728,
-							-31.976609
+							115.81655,
+							-31.976876
+						],
+						[
+							115.816525,
+							-31.976783
+						],
+						[
+							115.81668,
+							-31.976769
 						]
 					]
 				},
@@ -566,20 +582,36 @@
 							-31.978166
 						],
 						[
+							115.817669,
+							-31.977887
+						],
+						[
 							115.818298,
 							-31.977606
 						],
 						[
-							115.81888,
-							-31.9772
+							115.819169,
+							-31.976986
+						],
+						[
+							115.818866,
+							31.976985
 						],
 						[
 							115.818877,
 							-31.9767
 						],
 						[
-							115.819982,
-							-31.976656
+							115.81996,
+							31.976686
+						],
+						[
+							115.819959,
+							-31.976348
+						],
+						[
+							115.820884,
+							-31.976348
 						]
 					]
 				},
@@ -766,6 +798,26 @@
 							"Note": "This stand of trees were grown from seed provided by the Queensland Forestry Department in 1946 and now tower over the landscape. Their long straight trunks seem to go on forever, so try not to get vertigo when looking up into the canopy.",
 							"ImageURL": "/fig.jpg",
 							"QRID": "QR29"
+						}
+					},
+					{
+						"type": "Feature",
+						"geometry": {
+							"type": "Point",
+							"coordinates": [
+								115.817777,
+								-31.977762
+							]
+						},
+						"properties": {
+							"ObjectType": "Art",
+							"ID": "Art_012",
+							"Title": "The Tropical Grove",
+							"Artist": "Unknown",
+							"Year": "1960's",
+							"Note": "TBC",
+							"ImageURL": "/fig.jpg",
+							"QRID": "QR30"
 						}
 					}
 				]
