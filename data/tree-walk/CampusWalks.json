@@ -785,14 +785,13 @@
 				"geometry": {
 					"type": "LineString",
 					"coordinates": [
-						[
-							115.817969,
-							-31.980215
-						],
-						[
-							115.8179,
-							-31.9802
-						]
+						[115.820778, -31.985543],
+						[115.820147, -31.985559],
+						[115.820127, -31.981354],
+						[115.820019, -31.981300],
+						[115.820025, -31.979266],
+						[115.820472, -31.977594],
+						[115.820963, -31.976430]
 					]
 				},
 				"properties": {}
@@ -811,13 +810,13 @@
 						},
 						"properties": {
 							"ObjectType": "Art",
-							"ID": "Art_0",
+							"ID": "Art_013",
 							"Title": "Gift from the Gods",
 							"Artist": "Robin Yakinthou",
 							"YearInstalled": "2013",
 							"Note": "The sculpture symbolises humankind's pollution not only of the Earth but also of outer space. It was originally on display in the 2013 Sculpture by the Sea at Cottesloe, before being purchased by the State Government as a gift to UWA to celebrate UWA's centenary. It was presented by the Premier at the time, Mr Barnett, who is a UWA graduate, to the Vice-Chancellor, Professor Paul Johnson.",
 							"ImageURL": "/CellularCurios.jpg",
-							"QRID": "QR"
+							"QRID": "QR31"
 						}
 					},
 					{
@@ -831,13 +830,33 @@
 						},
 						"properties": {
 							"ObjectType": "Art",
-							"ID": "Art_0",
+							"ID": "Art_014",
 							"Title": "Noongar Months and Seasons Mural",
 							"Artist": "Unknown",
 							"YearInstalled": "Unknown",
 							"Note": "Unknown",
 							"ImageURL": "/CellularCurios.jpg",
-							"QRID": "QR"
+							"QRID": "QR32"
+						}
+					},
+					{
+						"type": "Feature",
+						"geometry": {
+							"type": "Point",
+							"coordinates": [
+								115.820378,
+								-31.982886
+							]
+						},
+						"properties": {
+							"ObjectType": "Art",
+							"ID": "Art_015",
+							"Title": "Danjoo Kaartdijiny",
+							"Artist": "Sharyn Egan",
+							"YearInstalled": "Unknown",
+							"Note": "Danjoo Kaartdijiny (Learning Together) embodies the strong symbol of the Black Swan watching over the nest. It symbolises the nurturing role of the School of Indigenous Studies for all students. The Swan's wings expand in a protective embrace, providing a source of strength and belonging, a place to call home. The work incorporates connections to the Swan River and Whadjuk Nyoongar country, referencing the Bibbulmen Darling Range in the distance, and the creative spiritual presence of the Waagul below. It is handcrafted and stitched using natural sisal rope and thread, the artwork is a metaphor for the cultural threads woven through Aboriginal communities, connection to country and the continuum of past, present and future.",
+							"ImageURL": "/CellularCurios.jpg",
+							"QRID": "QR33"
 						}
 					},
 					{
@@ -851,13 +870,13 @@
 						},
 						"properties": {
 							"ObjectType": "Art",
-							"ID": "Art_0",
+							"ID": "Art_016",
 							"Title": "Celestian",
 							"Artist": "Hans Arkeveld",
 							"YearInstalled": "2003",
 							"Note": "The enigmatic sculpture is deeply human yet playfully metallic – part machine, part meditation and completely out of this world. Celestian and the tranquil Memorial Garden in which it sits were funded by a generous donation from the Tahija family. Within its plinth, artist-in-residence Hans Arkeveld suspended a crucifix and other items accumulated over the years from those who bequeathed their mortal remains to the School of Anatomy and Human Biology for training and research. The sculpture and garden honour these people.",
 							"ImageURL": "/CellularCurios.jpg",
-							"QRID": "QR"
+							"QRID": "QR34"
 						}
 					},
 					{
@@ -877,7 +896,7 @@
 							"Significance": "Interesting species",
 							"Note": "The Business School is home to the boabs on campus, with this being the largest. Although this particular specimen may not look very impressive at the moment, give it a few hundred years and your grandchildren or great-grandchildren will be able to look in wonder at this weird and wonderful tree. The iconic Kings Park boab is only a teenager at 750 yrs old, so this tree must be a foetus.",
 							"ImageURL": "/fig.jpg",
-							"QRID": "QR"
+							"QRID": "QR35"
 						}
 					},
 					{
@@ -894,10 +913,10 @@
 							"ID": "Tree_2893",
 							"Species": "Banksia praemorsa",
 							"CommonName": "Cut-Leaf Banksia",
-							"Significance": "This species of banksia is native to the coastal regions around Albany, WA. It gets its name from the Latin adjective 'praemorsus' which means 'bitten off' and referrs to the shape of this species' leaves relative to the more typical elongated banksia leaf. We do do not recommend taking a bite of the leaves yourself!",
-							"Note": "Banksia",
+							"Significance": "Interesting Species",
+							"Note": "This species of banksia is native to the coastal regions around Albany, WA. It gets its name from the Latin adjective 'praemorsus' which means 'bitten off' and referrs to the shape of this species' leaves relative to the more typical elongated banksia leaf. We do do not recommend taking a bite of the leaves yourself!",
 							"ImageURL": "/fig.jpg",
-							"QRID": "QR"
+							"QRID": "QR36"
 						}
 					},
 					{
@@ -917,7 +936,7 @@
 							"Significance": "Interesting species",
 							"Note": "Located in UWA's Taxonomic Garden, this tree is the largest and oldest of the species on campus, and sports an exceptional example of the genus' characteristic bulbous trunk. It was planted back when the Taxonomic garden was first built back in the 1960s, and is native to the rainforests of north-eastern Australia. While the tree is often planted as an ornamental tree, indigenous Australian's use the wood for shields, and ate the roasted seeds.",
 							"ImageURL": "/fig.jpg",
-							"QRID": "QR"
+							"QRID": "QR37"
 						}
 					},
 					{
@@ -937,7 +956,7 @@
 							"Significance": "Interesting tree",
 							"Note": "Located in Thurling Green, this old mulberry tree wa transplanted from one of the Parkway houses demolished to make way for the Biological Sciences Library in 1992. It's bulbous trunk is out of proportion to it's spindly branches due to repeated hard pruning by the grounds team to control invasive fruit fly populations and to prevent pesky students from climbing the tree.",
 							"ImageURL": "/fig.jpg",
-							"QRID": "QR"
+							"QRID": "QR38"
 						}
 					},
 					{
@@ -957,7 +976,7 @@
 							"Significance": "Interesting species",
 							"Note": "These trees were grown from cuttings taken of a unique weeping variation discovered growing near Margaret River by horticulturalist George Lullfitz. Not only is the weeping habit unusual, but the location is as well, as the majority of the population is found further east, between Albany and Esperance. They were planted by UWA Friends of the Grounds to help celebrate UWA's 2013 Centenary Year.",
 							"ImageURL": "/fig.jpg",
-							"QRID": "QR"
+							"QRID": "QR39"
 						}
 					},
 					{
@@ -977,7 +996,7 @@
 							"Significance": "Interesting Tree",
 							"Note": "This tree is believed to be the oldest planted tree on campus, planted around the time that Shenton House was first acquired by the university in 1921. The species is native to Mexico.",
 							"ImageURL": "/fig.jpg",
-							"QRID": "QR"
+							"QRID": "QR40"
 						}
 					},
 					{
@@ -997,7 +1016,7 @@
 							"Significance": "Interesting Tree",
 							"Note": "A popular afternoon hangout and a dominating feature of the Oak Lawn, this tree is arguably one of the most iconic on campus. It was planted in the early 1900's as part of the Shenton House landscaping. Since then, the Oak Lawn was built up from the hight of the carpark in the late 50's early 60's and the lawn was layed high around the trunk of this tree, hence why its trunk is so short and its branches spread so low to the ground. To see how long the trunks of oak trees usually are, look across to the big oak tree in the Student Central courtyard.",
 							"ImageURL": "/fig.jpg",
-							"QRID": "QR"
+							"QRID": "QR41"
 						}
 					},
 					{
@@ -1017,7 +1036,7 @@
 							"Significance": "Historic",
 							"Note": "This tree was planted by Mr Nevin Jayawardena (Guild President 2017) to celebrate Convocation Day, 4th March 2017. The species is native to Southeastern United States.",
 							"ImageURL": "/fig.jpg",
-							"QRID": "QR"
+							"QRID": "QR42"
 						}
 					},
 					{
@@ -1037,7 +1056,7 @@
 							"Significance": "Interesting species",
 							"Note": "This species is native to the Kalgoorlie-Boulder region. It gets its name from it's strangely shaped flower buds which resemble salmon coloured coral.",
 							"ImageURL": "/fig.jpg",
-							"QRID": "QR"
+							"QRID": "QR43"
 						}
 					},
 					{
@@ -1057,7 +1076,7 @@
 							"Significance": "Interesting Tree",
 							"Note": "Due to the size and position of this tree it was most likely one of the plantings of Henry Campbell's (UWA head gardener from 1927-1930) Victorian garden back in the late 1920s. The Victorian garden was a large formal garden of trees native to each Australian state. This particular species is native to southeastern Australia.",
 							"ImageURL": "/fig.jpg",
-							"QRID": "QR"
+							"QRID": "QR44"
 						}
 					},
 					{
@@ -1077,7 +1096,7 @@
 							"Significance": "Interesting Tree",
 							"Note": "This collecction of Pines is part of William Somerville's 'cathedral of trees', planted around 1927, that later became the Somerville Auditorium in 1945. Somerville's (a historian and foundation member of the Senate of UWA), wish was to create an open-air venue that displayed the beauty he had witnessed during his travels through untouched primaeval forests. His ashes were scattered at the base of this tree in 1954.",
 							"ImageURL": "/fig.jpg",
-							"QRID": "QR"
+							"QRID": "QR45"
 						}
 					},
 					{
@@ -1097,7 +1116,7 @@
 							"Significance": "",
 							"Note": "Due to the size and position of this tree it was most likely one of the plantings of Henry Campbell's (UWA head gardener from 1927-1930) Victorian garden back in the late 1920s. The Victorian garden was a large formal garden of trees native to each Australian state. This particular species is native to South Australia, and is particularly large for the species.",
 							"ImageURL": "/fig.jpg",
-							"QRID": "QR"
+							"QRID": "QR46"
 						}
 					}
 				]
