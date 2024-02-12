@@ -37,7 +37,7 @@
 						],
 						[
 							115.819337,
-							-31.982700
+							-31.9827
 						],
 						[
 							115.818746,
@@ -52,7 +52,7 @@
 							-31.980989
 						],
 						[
-							115.817380,
+							115.81738,
 							-31.980797
 						],
 						[
@@ -507,53 +507,6 @@
 		}
 	},
 	{
-		"Walk": "Temp For Note",
-		"geojson": {
-			"path": {
-				"type": "Feature",
-				"geometry": {
-					"type": "LineString",
-					"coordinates": [
-						[
-							115.817969,
-							-31.980215
-						],
-						[
-							115.8179,
-							-31.9802
-						]
-					]
-				},
-				"properties": {}
-			},
-			"points": {
-				"type": "FeatureCollection",
-				"features": [
-					{
-						"type": "Feature",
-						"geometry": {
-							"type": "Point",
-							"coordinates": [
-								115.8164384,
-								-31.97937367
-							]
-						},
-						"properties": {
-							"ObjectType": "Tree",
-							"ID": "Tree_1133",
-							"Species": "Eucalyptus marginata",
-							"CommonName": "Jarrah",
-							"Significance": "Interesting tree",
-							"Note": "Jarrah trees are one of the most common Eucalyptus species native the the Perth region, along with the Marri and Tuart. This tree towers above the mathematics courtyard at 30m tall and looks over a huge slab of petrified wood. The origin of this sculpture is unknown, but we ecourage you to stop and take a look at the crystals within the tree rings and the detail locked away in this amazing natural sculpture.",
-							"ImageURL": "/fig.jpg",
-							"QRID": "QR99"
-						}
-					}
-				]
-			}
-		}
-	},
-	{
 		"Walk": "Battye Walk",
 		"geojson": {
 			"path": {
@@ -595,7 +548,7 @@
 						],
 						[
 							115.818866,
-							31.976985
+							-31.976985
 						],
 						[
 							115.818877,
@@ -603,7 +556,7 @@
 						],
 						[
 							115.81996,
-							31.976686
+							-31.976686
 						],
 						[
 							115.819959,
@@ -818,6 +771,333 @@
 							"Note": "TBC",
 							"ImageURL": "/fig.jpg",
 							"QRID": "QR30"
+						}
+					}
+				]
+			}
+		}
+	},
+	{
+		"Walk": "Briana Biddi",
+		"geojson": {
+			"path": {
+				"type": "Feature",
+				"geometry": {
+					"type": "LineString",
+					"coordinates": [
+						[
+							115.817969,
+							-31.980215
+						],
+						[
+							115.8179,
+							-31.9802
+						]
+					]
+				},
+				"properties": {}
+			},
+			"points": {
+				"type": "FeatureCollection",
+				"features": [
+					{
+						"type": "Feature",
+						"geometry": {
+							"type": "Point",
+							"coordinates": [
+								115.820276,
+								-31.977421
+							]
+						},
+						"properties": {
+							"ObjectType": "Art",
+							"ID": "Art_0",
+							"Title": "Gift from the Gods",
+							"Artist": "Robin Yakinthou",
+							"YearInstalled": "2013",
+							"Note": "The sculpture symbolises humankind's pollution not only of the Earth but also of outer space. It was originally on display in the 2013 Sculpture by the Sea at Cottesloe, before being purchased by the State Government as a gift to UWA to celebrate UWA's centenary. It was presented by the Premier at the time, Mr Barnett, who is a UWA graduate, to the Vice-Chancellor, Professor Paul Johnson.",
+							"ImageURL": "/CellularCurios.jpg",
+							"QRID": "QR"
+						}
+					},
+					{
+						"type": "Feature",
+						"geometry": {
+							"type": "Point",
+							"coordinates": [
+								115.819853,
+								-31.979518
+							]
+						},
+						"properties": {
+							"ObjectType": "Art",
+							"ID": "Art_0",
+							"Title": "Noongar Months and Seasons Mural",
+							"Artist": "Unknown",
+							"YearInstalled": "Unknown",
+							"Note": "Unknown",
+							"ImageURL": "/CellularCurios.jpg",
+							"QRID": "QR"
+						}
+					},
+					{
+						"type": "Feature",
+						"geometry": {
+							"type": "Point",
+							"coordinates": [
+								115.820047,
+								-31.981869
+							]
+						},
+						"properties": {
+							"ObjectType": "Art",
+							"ID": "Art_0",
+							"Title": "Celestian",
+							"Artist": "Hans Arkeveld",
+							"YearInstalled": "2003",
+							"Note": "The enigmatic sculpture is deeply human yet playfully metallic – part machine, part meditation and completely out of this world. Celestian and the tranquil Memorial Garden in which it sits were funded by a generous donation from the Tahija family. Within its plinth, artist-in-residence Hans Arkeveld suspended a crucifix and other items accumulated over the years from those who bequeathed their mortal remains to the School of Anatomy and Human Biology for training and research. The sculpture and garden honour these people.",
+							"ImageURL": "/CellularCurios.jpg",
+							"QRID": "QR"
+						}
+					},
+					{
+						"type": "Feature",
+						"geometry": {
+							"type": "Point",
+							"coordinates": [
+								115.8208574,
+								-31.98567799
+							]
+						},
+						"properties": {
+							"ObjectType": "Tree",
+							"ID": "Tree_3456",
+							"Species": "Adansonia gregorii",
+							"CommonName": "Boab",
+							"Significance": "Interesting species",
+							"Note": "The Business School is home to the boabs on campus, with this being the largest. Although this particular specimen may not look very impressive at the moment, give it a few hundred years and your grandchildren or great-grandchildren will be able to look in wonder at this weird and wonderful tree. The iconic Kings Park boab is only a teenager at 750 yrs old, so this tree must be a foetus.",
+							"ImageURL": "/fig.jpg",
+							"QRID": "QR"
+						}
+					},
+					{
+						"type": "Feature",
+						"geometry": {
+							"type": "Point",
+							"coordinates": [
+								115.8201982,
+								-31.98425485
+							]
+						},
+						"properties": {
+							"ObjectType": "Tree",
+							"ID": "Tree_2893",
+							"Species": "Banksia praemorsa",
+							"CommonName": "Cut-Leaf Banksia",
+							"Significance": "This species of banksia is native to the coastal regions around Albany, WA. It gets its name from the Latin adjective 'praemorsus' which means 'bitten off' and referrs to the shape of this species' leaves relative to the more typical elongated banksia leaf. We do do not recommend taking a bite of the leaves yourself!",
+							"Note": "Banksia",
+							"ImageURL": "/fig.jpg",
+							"QRID": "QR"
+						}
+					},
+					{
+						"type": "Feature",
+						"geometry": {
+							"type": "Point",
+							"coordinates": [
+								115.8199296,
+								-31.98383215
+							]
+						},
+						"properties": {
+							"ObjectType": "Tree",
+							"ID": "Tree_2703",
+							"Species": "Brachychiton discolor",
+							"CommonName": "Lacebark tree",
+							"Significance": "Interesting species",
+							"Note": "Located in UWA's Taxonomic Garden, this tree is the largest and oldest of the species on campus, and sports an exceptional example of the genus' characteristic bulbous trunk. It was planted back when the Taxonomic garden was first built back in the 1960s, and is native to the rainforests of north-eastern Australia. While the tree is often planted as an ornamental tree, indigenous Australian's use the wood for shields, and ate the roasted seeds.",
+							"ImageURL": "/fig.jpg",
+							"QRID": "QR"
+						}
+					},
+					{
+						"type": "Feature",
+						"geometry": {
+							"type": "Point",
+							"coordinates": [
+								115.8199545,
+								-31.98335139
+							]
+						},
+						"properties": {
+							"ObjectType": "Tree",
+							"ID": "Tree_2390",
+							"Species": "Morus alba",
+							"CommonName": "Mulberry",
+							"Significance": "Interesting tree",
+							"Note": "Located in Thurling Green, this old mulberry tree wa transplanted from one of the Parkway houses demolished to make way for the Biological Sciences Library in 1992. It's bulbous trunk is out of proportion to it's spindly branches due to repeated hard pruning by the grounds team to control invasive fruit fly populations and to prevent pesky students from climbing the tree.",
+							"ImageURL": "/fig.jpg",
+							"QRID": "QR"
+						}
+					},
+					{
+						"type": "Feature",
+						"geometry": {
+							"type": "Point",
+							"coordinates": [
+								115.8201098,
+								-31.98220987
+							]
+						},
+						"properties": {
+							"ObjectType": "Tree",
+							"ID": "Tree_2193",
+							"Species": "Hakea laurina",
+							"CommonName": "Pincushion Hakea",
+							"Significance": "Interesting species",
+							"Note": "These trees were grown from cuttings taken of a unique weeping variation discovered growing near Margaret River by horticulturalist George Lullfitz. Not only is the weeping habit unusual, but the location is as well, as the majority of the population is found further east, between Albany and Esperance. They were planted by UWA Friends of the Grounds to help celebrate UWA's 2013 Centenary Year.",
+							"ImageURL": "/fig.jpg",
+							"QRID": "QR"
+						}
+					},
+					{
+						"type": "Feature",
+						"geometry": {
+							"type": "Point",
+							"coordinates": [
+								115.8199773,
+								-31.98129057
+							]
+						},
+						"properties": {
+							"ObjectType": "Tree",
+							"ID": "Tree_1408",
+							"Species": "Hesperocyparis lusitanica",
+							"CommonName": "Mexican cedar",
+							"Significance": "Interesting Tree",
+							"Note": "This tree is believed to be the oldest planted tree on campus, planted around the time that Shenton House was first acquired by the university in 1921. The species is native to Mexico.",
+							"ImageURL": "/fig.jpg",
+							"QRID": "QR"
+						}
+					},
+					{
+						"type": "Feature",
+						"geometry": {
+							"type": "Point",
+							"coordinates": [
+								115.8195699,
+								-31.98039244
+							]
+						},
+						"properties": {
+							"ObjectType": "Tree",
+							"ID": "Tree_1386",
+							"Species": "Quercus canariensis",
+							"CommonName": "Algerian oak",
+							"Significance": "Interesting Tree",
+							"Note": "A popular afternoon hangout and a dominating feature of the Oak Lawn, this tree is arguably one of the most iconic on campus. It was planted in the early 1900's as part of the Shenton House landscaping. Since then, the Oak Lawn was built up from the hight of the carpark in the late 50's early 60's and the lawn was layed high around the trunk of this tree, hence why its trunk is so short and its branches spread so low to the ground. To see how long the trunks of oak trees usually are, look across to the big oak tree in the Student Central courtyard.",
+							"ImageURL": "/fig.jpg",
+							"QRID": "QR"
+						}
+					},
+					{
+						"type": "Feature",
+						"geometry": {
+							"type": "Point",
+							"coordinates": [
+								115.8200648,
+								-31.97984189
+							]
+						},
+						"properties": {
+							"ObjectType": "Tree",
+							"ID": "Tree_3693",
+							"Species": "Quercus virginiana",
+							"CommonName": "Southern Live Oak",
+							"Significance": "Historic",
+							"Note": "This tree was planted by Mr Nevin Jayawardena (Guild President 2017) to celebrate Convocation Day, 4th March 2017. The species is native to Southeastern United States.",
+							"ImageURL": "/fig.jpg",
+							"QRID": "QR"
+						}
+					},
+					{
+						"type": "Feature",
+						"geometry": {
+							"type": "Point",
+							"coordinates": [
+								115.8203346,
+								-31.97855151
+							]
+						},
+						"properties": {
+							"ObjectType": "Tree",
+							"ID": "Tree_1247",
+							"Species": "Eucalyptus torquata",
+							"CommonName": "Coral Gum",
+							"Significance": "Interesting species",
+							"Note": "This species is native to the Kalgoorlie-Boulder region. It gets its name from it's strangely shaped flower buds which resemble salmon coloured coral.",
+							"ImageURL": "/fig.jpg",
+							"QRID": "QR"
+						}
+					},
+					{
+						"type": "Feature",
+						"geometry": {
+							"type": "Point",
+							"coordinates": [
+								115.8206771,
+								-31.97694715
+							]
+						},
+						"properties": {
+							"ObjectType": "Tree",
+							"ID": "Tree_639",
+							"Species": "Eucalyptus botryoides",
+							"CommonName": "Woollybutt",
+							"Significance": "Interesting Tree",
+							"Note": "Due to the size and position of this tree it was most likely one of the plantings of Henry Campbell's (UWA head gardener from 1927-1930) Victorian garden back in the late 1920s. The Victorian garden was a large formal garden of trees native to each Australian state. This particular species is native to southeastern Australia.",
+							"ImageURL": "/fig.jpg",
+							"QRID": "QR"
+						}
+					},
+					{
+						"type": "Feature",
+						"geometry": {
+							"type": "Point",
+							"coordinates": [
+								115.8200717,
+								-31.97725763
+							]
+						},
+						"properties": {
+							"ObjectType": "Tree",
+							"ID": "Tree_675",
+							"Species": "Araucaria heterophylla",
+							"CommonName": "Norfolk Island Pine",
+							"Significance": "Interesting Tree",
+							"Note": "This collecction of Pines is part of William Somerville's 'cathedral of trees', planted around 1927, that later became the Somerville Auditorium in 1945. Somerville's (a historian and foundation member of the Senate of UWA), wish was to create an open-air venue that displayed the beauty he had witnessed during his travels through untouched primaeval forests. His ashes were scattered at the base of this tree in 1954.",
+							"ImageURL": "/fig.jpg",
+							"QRID": "QR"
+						}
+					},
+					{
+						"type": "Feature",
+						"geometry": {
+							"type": "Point",
+							"coordinates": [
+								115.820438,
+								-31.97769115
+							]
+						},
+						"properties": {
+							"ObjectType": "Tree",
+							"ID": "Tree_1189",
+							"Species": "Eucalyptus cladocalyx",
+							"CommonName": "Sugar Gum",
+							"Significance": "",
+							"Note": "Due to the size and position of this tree it was most likely one of the plantings of Henry Campbell's (UWA head gardener from 1927-1930) Victorian garden back in the late 1920s. The Victorian garden was a large formal garden of trees native to each Australian state. This particular species is native to South Australia, and is particularly large for the species.",
+							"ImageURL": "/fig.jpg",
+							"QRID": "QR"
 						}
 					}
 				]
