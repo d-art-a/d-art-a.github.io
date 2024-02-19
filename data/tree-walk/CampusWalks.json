@@ -421,7 +421,7 @@
 						},
 						"properties": {
 							"ObjectType": "Tree",
-							"ID": "Tree_3031",
+							"Code": "Tree_3031",
 							"Species": "Corymbia calopylla",
 							"CommonName": "Marri",
 							"Significance": "Interesting tree",
@@ -441,7 +441,7 @@
 						},
 						"properties": {
 							"ObjectType": "Tree",
-							"ID": "Tree_3153",
+							"Code": "Tree_3153",
 							"Species": "Eucalyptus marginata",
 							"CommonName": "Jarrah",
 							"Significance": "Interesting tree",
@@ -461,7 +461,7 @@
 						},
 						"properties": {
 							"ObjectType": "Tree",
-							"ID": "Tree_2703",
+							"Code": "Tree_2703",
 							"Species": "Brachychiton discolor",
 							"CommonName": "Lacebark tree",
 							"Significance": "Interesting tree",
@@ -481,7 +481,7 @@
 						},
 						"properties": {
 							"ObjectType": "Tree",
-							"ID": "Tree_2817",
+							"Code": "Tree_2817",
 							"Species": "Corymbia calopylla",
 							"CommonName": "Marri",
 							"Significance": "Cultural",
@@ -501,7 +501,7 @@
 						},
 						"properties": {
 							"ObjectType": "Tree",
-							"ID": "Tree_4031",
+							"Code": "Tree_4031",
 							"Species": "Corymbia calopylla",
 							"CommonName": "Marri",
 							"Significance": "Cultural",
@@ -521,7 +521,7 @@
 						},
 						"properties": {
 							"ObjectType": "Tree",
-							"ID": "Tree_2143",
+							"Code": "Tree_2143",
 							"Species": "Eucalyptus cornuta",
 							"CommonName": "Yate",
 							"Significance": "Interesting tree",
@@ -541,7 +541,7 @@
 						},
 						"properties": {
 							"ObjectType": "Tree",
-							"ID": "Tree_2128",
+							"Code": "Tree_2128",
 							"Species": "Corymbia citriodora",
 							"CommonName": "Lemon-Scented Gum",
 							"Significance": "Interesting tree",
@@ -561,7 +561,7 @@
 						},
 						"properties": {
 							"ObjectType": "Tree",
-							"ID": "Tree_2028",
+							"Code": "Tree_2028",
 							"Species": "Dracena draco",
 							"CommonName": "Canary Islands dragon tree",
 							"Significance": "Interesting species",
@@ -581,7 +581,7 @@
 						},
 						"properties": {
 							"ObjectType": "Tree",
-							"ID": "Tree_3770",
+							"Code": "Tree_3770",
 							"Species": "Acacia saligna",
 							"CommonName": "Orange Wattle",
 							"Significance": "Interesting tree",
@@ -601,7 +601,7 @@
 						},
 						"properties": {
 							"ObjectType": "Tree",
-							"ID": "Tree_1762",
+							"Code": "Tree_1762",
 							"Species": "Nuytsia floribunda",
 							"CommonName": "Australian Christmas tree",
 							"Significance": "Interesting species",
@@ -621,7 +621,7 @@
 						},
 						"properties": {
 							"ObjectType": "Tree",
-							"ID": "Tree_412",
+							"Code": "Tree_412",
 							"Species": "Corymbia calopylla",
 							"CommonName": "Marri",
 							"Significance": "Interesting species",
@@ -641,7 +641,7 @@
 						},
 						"properties": {
 							"ObjectType": "Art",
-							"ID": "Art_001",
+							"Code": "Art_001",
 							"Title": "Spirit of Progress",
 							"Artist": "Edward Kohler",
 							"Year": "1938",
@@ -661,7 +661,7 @@
 						},
 						"properties": {
 							"ObjectType": "Art",
-							"ID": "Art_002",
+							"Code": "Art_002",
 							"Title": "Cellular Curios",
 							"Artist": "Kate Cullity and TCL",
 							"Year": "2021",
@@ -681,7 +681,7 @@
 						},
 						"properties": {
 							"ObjectType": "Art",
-							"ID": "Art_003",
+							"Code": "Art_003",
 							"Title": "Analemma",
 							"Artist": "Robert J. Collins",
 							"Year": "Unknown",
@@ -701,7 +701,7 @@
 						},
 						"properties": {
 							"ObjectType": "Art",
-							"ID": "Art_004",
+							"Code": "Art_004",
 							"Title": "Muriel and Colin Ramm Sundial",
 							"Artist": "Dr Anthony Sprent & UWA Workshop",
 							"Year": "2022",
@@ -721,7 +721,7 @@
 						},
 						"properties": {
 							"ObjectType": "Art",
-							"ID": "Art_005",
+							"Code": "Art_005",
 							"Title": "Bust of Professor A.L (Larry) Blakers AM",
 							"Artist": "Unknown",
 							"Year": "2016",
@@ -741,7 +741,7 @@
 						},
 						"properties": {
 							"ObjectType": "Art",
-							"ID": "Art_006",
+							"Code": "Art_006",
 							"Title": "Orbicular Garnitoid",
 							"Artist": "Unknown",
 							"Year": "Unknown",
@@ -761,7 +761,7 @@
 						},
 						"properties": {
 							"ObjectType": "Art",
-							"ID": "Art_007",
+							"Code": "Art_007",
 							"Title": "Homo Fallible",
 							"Artist": "Hans Arkeveld",
 							"Year": "1942",
@@ -781,7 +781,7 @@
 						},
 						"properties": {
 							"ObjectType": "Art",
-							"ID": "Art_008",
+							"Code": "Art_008",
 							"Title": "Plant Form",
 							"Artist": "Robert Juniper",
 							"Year": "1974",
@@ -801,7 +801,7 @@
 						},
 						"properties": {
 							"ObjectType": "Tree",
-							"ID": "Tree_955",
+							"Code": "Tree_955",
 							"Species": "Corymbia citriodora",
 							"CommonName": "Lemon-Scented Gum",
 							"Significance": "Interesting Tree",
@@ -1104,7 +1104,7 @@
 						},
 						"properties": {
 							"ObjectType": "Art",
-							"ID": "Art_009",
+							"Code": "Art_009",
 							"Title": "Chemistry panels",
 							"Artist": "Unknown",
 							"Year": "Unknown",
@@ -1124,7 +1124,7 @@
 						},
 						"properties": {
 							"ObjectType": "Art",
-							"ID": "Art_010",
+							"Code": "Art_010",
 							"Title": "The Black Stump",
 							"Artist": "Howard Taylor",
 							"Year": "1975",
@@ -1144,7 +1144,7 @@
 						},
 						"properties": {
 							"ObjectType": "Art",
-							"ID": "Art_011",
+							"Code": "Art_011",
 							"Title": "The Dancer",
 							"Artist": "Greg James",
 							"Year": "Unknown",
@@ -1164,7 +1164,7 @@
 						},
 						"properties": {
 							"ObjectType": "Tree",
-							"ID": "Tree_966",
+							"Code": "Tree_966",
 							"Species": "Liquidambar styraciflua",
 							"CommonName": "American storax",
 							"Significance": "Interesting Tree",
@@ -1184,7 +1184,7 @@
 						},
 						"properties": {
 							"ObjectType": "Tree",
-							"ID": "Tree_3660",
+							"Code": "Tree_3660",
 							"Species": "Wollemia nobilis",
 							"CommonName": "Wollemi pine",
 							"Significance": "Interesting Species",
@@ -1204,7 +1204,7 @@
 						},
 						"properties": {
 							"ObjectType": "Tree",
-							"ID": "Tree_1031",
+							"Code": "Tree_1031",
 							"Species": "Ficus microcarpa (var. hillii)",
 							"CommonName": "Curtain Fig",
 							"Significance": "Historic",
@@ -1224,7 +1224,7 @@
 						},
 						"properties": {
 							"ObjectType": "Tree",
-							"ID": "Tree_1007",
+							"Code": "Tree_1007",
 							"Species": "Eucalyptus marginata",
 							"CommonName": "Jarrah",
 							"Significance": "Cultural",
@@ -1244,7 +1244,7 @@
 						},
 						"properties": {
 							"ObjectType": "Tree",
-							"ID": "Tree_1078",
+							"Code": "Tree_1078",
 							"Species": "Ficus macrophylla",
 							"CommonName": "Moreton Bay fig",
 							"Significance": "Important Tree",
@@ -1264,7 +1264,7 @@
 						},
 						"properties": {
 							"ObjectType": "Tree",
-							"ID": "Tree_817",
+							"Code": "Tree_817",
 							"Species": "Agathis robusta",
 							"CommonName": "Queensland kauri",
 							"Significance": "",
@@ -1284,7 +1284,7 @@
 						},
 						"properties": {
 							"ObjectType": "Art",
-							"ID": "Art_012",
+							"Code": "Art_012",
 							"Title": "The Tropical Grove",
 							"Artist": "Unknown",
 							"Year": "1960's",
@@ -1495,7 +1495,7 @@
 						},
 						"properties": {
 							"ObjectType": "Art",
-							"ID": "Art_013",
+							"Code": "Art_013",
 							"Title": "Gift from the Gods",
 							"Artist": "Robin Yakinthou",
 							"YearInstalled": "2013",
@@ -1515,7 +1515,7 @@
 						},
 						"properties": {
 							"ObjectType": "Art",
-							"ID": "Art_014",
+							"Code": "Art_014",
 							"Title": "Noongar Months and Seasons Mural",
 							"Artist": "Unknown",
 							"YearInstalled": "Unknown",
@@ -1535,7 +1535,7 @@
 						},
 						"properties": {
 							"ObjectType": "Art",
-							"ID": "Art_015",
+							"Code": "Art_015",
 							"Title": "Danjoo Kaartdijiny",
 							"Artist": "Sharyn Egan",
 							"YearInstalled": "Unknown",
@@ -1555,7 +1555,7 @@
 						},
 						"properties": {
 							"ObjectType": "Art",
-							"ID": "Art_016",
+							"Code": "Art_016",
 							"Title": "Celestian",
 							"Artist": "Hans Arkeveld",
 							"YearInstalled": "2003",
@@ -1575,7 +1575,7 @@
 						},
 						"properties": {
 							"ObjectType": "Tree",
-							"ID": "Tree_3456",
+							"Code": "Tree_3456",
 							"Species": "Adansonia gregorii",
 							"CommonName": "Boab",
 							"Significance": "Interesting species",
@@ -1595,7 +1595,7 @@
 						},
 						"properties": {
 							"ObjectType": "Tree",
-							"ID": "Tree_2893",
+							"Code": "Tree_2893",
 							"Species": "Banksia praemorsa",
 							"CommonName": "Cut-Leaf Banksia",
 							"Significance": "Interesting Species",
@@ -1615,7 +1615,7 @@
 						},
 						"properties": {
 							"ObjectType": "Tree",
-							"ID": "Tree_2703",
+							"Code": "Tree_2703",
 							"Species": "Brachychiton discolor",
 							"CommonName": "Lacebark tree",
 							"Significance": "Interesting species",
@@ -1635,7 +1635,7 @@
 						},
 						"properties": {
 							"ObjectType": "Tree",
-							"ID": "Tree_2390",
+							"Code": "Tree_2390",
 							"Species": "Morus alba",
 							"CommonName": "Mulberry",
 							"Significance": "Interesting tree",
@@ -1655,7 +1655,7 @@
 						},
 						"properties": {
 							"ObjectType": "Tree",
-							"ID": "Tree_2193",
+							"Code": "Tree_2193",
 							"Species": "Hakea laurina",
 							"CommonName": "Pincushion Hakea",
 							"Significance": "Interesting species",
@@ -1675,7 +1675,7 @@
 						},
 						"properties": {
 							"ObjectType": "Tree",
-							"ID": "Tree_1408",
+							"Code": "Tree_1408",
 							"Species": "Hesperocyparis lusitanica",
 							"CommonName": "Mexican cedar",
 							"Significance": "Interesting Tree",
@@ -1695,7 +1695,7 @@
 						},
 						"properties": {
 							"ObjectType": "Tree",
-							"ID": "Tree_1386",
+							"Code": "Tree_1386",
 							"Species": "Quercus canariensis",
 							"CommonName": "Algerian oak",
 							"Significance": "Interesting Tree",
@@ -1715,7 +1715,7 @@
 						},
 						"properties": {
 							"ObjectType": "Tree",
-							"ID": "Tree_3693",
+							"Code": "Tree_3693",
 							"Species": "Quercus virginiana",
 							"CommonName": "Southern Live Oak",
 							"Significance": "Historic",
@@ -1735,7 +1735,7 @@
 						},
 						"properties": {
 							"ObjectType": "Tree",
-							"ID": "Tree_1247",
+							"Code": "Tree_1247",
 							"Species": "Eucalyptus torquata",
 							"CommonName": "Coral Gum",
 							"Significance": "Interesting species",
@@ -1755,7 +1755,7 @@
 						},
 						"properties": {
 							"ObjectType": "Tree",
-							"ID": "Tree_639",
+							"Code": "Tree_639",
 							"Species": "Eucalyptus botryoides",
 							"CommonName": "Woollybutt",
 							"Significance": "Interesting Tree",
@@ -1775,7 +1775,7 @@
 						},
 						"properties": {
 							"ObjectType": "Tree",
-							"ID": "Tree_675",
+							"Code": "Tree_675",
 							"Species": "Araucaria heterophylla",
 							"CommonName": "Norfolk Island Pine",
 							"Significance": "Interesting Tree",
@@ -1795,7 +1795,7 @@
 						},
 						"properties": {
 							"ObjectType": "Tree",
-							"ID": "Tree_1189",
+							"Code": "Tree_1189",
 							"Species": "Eucalyptus cladocalyx",
 							"CommonName": "Sugar Gum",
 							"Significance": "",
