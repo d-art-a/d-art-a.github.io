@@ -445,7 +445,7 @@
 							"Species": "Eucalyptus marginata",
 							"CommonName": "Jarrah",
 							"Significance": "Interesting tree",
-							"Note": "The Jarrah is a close cousin to the Marri tree. You can most easily tell them apart by the shape of their gum nuts (Marri are 4x as large) and bark. This stand of Jarrah trees are unique due to their fragmented/tessellated bark, which is more similar to that of Marri trees than Jarrah typically have fibrous, vertical strips. These individuals most likely pre-date the university.",
+							"Note": "The Jarrah is a close cousin to the Marri tree. You can most easily tell them apart by the shape of their gum nuts (Marri are 4x as large) and bark. This stand of Jarrah trees are unique due to their fragmented/tessellated bark, which is more similar to that of Marri trees than Jarrah, which typically have fibrous, vertical strips. These individuals most likely pre-date the university.",
 							"ImageURL": "/fig.jpg",
 							"QRID": "QR2"
 						}
@@ -1602,26 +1602,6 @@
 							"Note": "This species of banksia is native to the coastal regions around Albany, WA. It gets its name from the Latin adjective 'praemorsus' which means 'bitten off' and referrs to the shape of this species' leaves relative to the more typical elongated banksia leaf. We do do not recommend taking a bite of the leaves yourself!",
 							"ImageURL": "/fig.jpg",
 							"QRID": "QR36"
-						}
-					},
-					{
-						"type": "Feature",
-						"geometry": {
-							"type": "Point",
-							"coordinates": [
-								115.8199296,
-								-31.98383215
-							]
-						},
-						"properties": {
-							"ObjectType": "Tree",
-							"Code": "Tree_2703",
-							"Species": "Brachychiton discolor",
-							"CommonName": "Lacebark tree",
-							"Significance": "Interesting species",
-							"Note": "Located in UWA's Taxonomic Garden, this tree is the largest and oldest of the species on campus, and sports an exceptional example of the genus' characteristic bulbous trunk. It was planted back when the Taxonomic garden was first built back in the 1960s, and is native to the rainforests of north-eastern Australia. While the tree is often planted as an ornamental tree, indigenous Australian's use the wood for shields, and ate the roasted seeds.",
-							"ImageURL": "/fig.jpg",
-							"QRID": "QR37"
 						}
 					},
 					{
