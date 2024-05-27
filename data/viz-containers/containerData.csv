@@ -1,0 +1,13 @@
+ID,containers,material,consumer
+1,561,PET,community
+2,481,PET,commercial
+3,392,PET,individual
+4,498,Aluminium,community
+5,581,Aluminium,commercial
+6,588,Aluminium,individual
+7,446,HDPE,community
+8,322,HDPE,commercial
+9,444,HDPE,individual
+10,479,Glass,community
+11,510,Glass,commercial
+12,467,Glass,individual
