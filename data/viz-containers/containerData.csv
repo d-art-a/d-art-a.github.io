@@ -1,13 +1,19 @@
-ID,containers,material,consumer
-1,561,PET,community
-2,481,PET,commercial
-3,392,PET,individual
-4,498,Aluminium,community
-5,581,Aluminium,commercial
-6,588,Aluminium,individual
-7,446,HDPE,community
-8,322,HDPE,commercial
-9,444,HDPE,individual
-10,479,Glass,community
-11,510,Glass,commercial
-12,467,Glass,individual
+ID,destination,material,consumer
+1,C4C,Aluminium,386072232
+2,C4C,Glass,207202559
+3,C4C,HDPE,8213612
+4,C4C,Liquid Paper Board,22002098
+5,C4C,Other,285783
+6,C4C,PET,235600689
+7,C4C,Steel,1353315
+8,Landfill,Aluminium,204416685
+9,Landfill,Glass,63082404
+10,Landfill,HDPE,14267713
+11,Landfill,Liquid Paper Board,57256605
+12,Landfill,Other,87083
+13,Landfill,PET,208985539
+14,Landfill,Steel,1034436
+15,MRF,Aluminium,63027747
+16,MRF,Glass,37477546
+17,MRF,HDPE,2659647
+18,MRF,PET,36510079
