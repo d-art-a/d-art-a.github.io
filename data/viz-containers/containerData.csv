@@ -1,19 +1,45 @@
-ID,destination,material,consumer
-1,C4C,Aluminium,386072232
-2,C4C,Glass,207202559
-3,C4C,HDPE,8213612
-4,C4C,Liquid Paper Board,22002098
-5,C4C,Other,285783
-6,C4C,PET,235600689
-7,C4C,Steel,1353315
-8,Landfill,Aluminium,204416685
-9,Landfill,Glass,63082404
-10,Landfill,HDPE,14267712
-11,Landfill,Liquid Paper Board,57256605
-12,Landfill,Other,87083
-13,Landfill,PET,208985539
-14,Landfill,Steel,1034436
-15,MRF,Aluminium,63027747
-16,MRF,Glass,37477546
-17,MRF,HDPE,2659648
-18,MRF,PET,36510079
+ID,material,preScheme,destination,growth,containers
+1,Aluminium,Growth,C4C,Growth,105.7
+2,Aluminium,Landfill,C4C,,164.6
+3,Aluminium,MRF,C4C,,115.7
+4,Aluminium,Growth,Landfill,Growth,56.1
+5,Aluminium,Landfill,Landfill,,148.7
+6,Aluminium,Growth,MRF,Growth,17.3
+7,Aluminium,MRF,MRF,,45.8
+8,Glass,Landfill,C4C,Decline,38.1
+9,Glass,Landfill,C4C,,142.9
+10,Glass,MRF,C4C,Decline,22.6
+11,Glass,MRF,C4C,,64.3
+12,Glass,Landfill,Landfill,Decline,18.5
+13,Glass,Landfill,Landfill,,63.3
+14,Glass,MRF,MRF,Decline,11
+15,Glass,MRF,MRF,,37.5
+16,HDPE,Growth,C4C,Growth,1.5
+17,HDPE,Landfill,C4C,,1.9
+18,HDPE,MRF,C4C,,4.8
+19,HDPE,Growth,Landfill,Growth,2.6
+20,HDPE,Landfill,Landfill,,11.7
+21,HDPE,Growth,MRF,Growth,0.5
+22,HDPE,MRF,MRF,,2.2
+23,Liquid Paper Board,Growth,C4C,Growth,4.5
+24,Liquid Paper Board,MRF,C4C,,17.5
+25,Liquid Paper Board,Growth,Landfill,Growth,11.6
+26,Liquid Paper Board,Landfill,Landfill,,45.7
+27,Liquid Paper Board,MRF,Landfill,,4
+28,PET,Growth,C4C,Growth,73.8
+29,PET,Landfill,C4C,,74.4
+30,PET,MRF,C4C,,87.4
+31,PET,Growth,Landfill,Growth,65.6
+32,PET,Landfill,Landfill,,143.9
+33,PET,Growth,MRF,Growth,11.4
+34,PET,MRF,MRF,,25.1
+35,Steel,Growth,C4C,Growth,1.2
+36,Steel,Landfill,C4C,,0.1
+37,Steel,MRF,C4C,,0.1
+38,Steel,Growth,Landfill,Growth,0.9
+39,Steel,Landfill,Landfill,,0.1
+40,Steel,Growth,C4C,Growth,1.2
+41,Steel,Landfill,C4C,,0.1
+42,Steel,MRF,C4C,,0.1
+43,Steel,Growth,Landfill,Growth,0.9
+44,Steel,Landfill,Landfill,,0.1
