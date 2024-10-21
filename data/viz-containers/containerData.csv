@@ -1,4 +1,4 @@
-ID,MATERIAL,PRESCHEME,DESTINATION,CONSUMER,GROWTH,CONTAINERS
+ID,material,preScheme,destination,consumer,growth,containers
 1,Aluminium,Growth,C4C,Business,Growth,2
 3,Aluminium,Growth,C4C,Community,Growth,4.5
 4,Aluminium,Growth,C4C,Individual,Growth,99.6
