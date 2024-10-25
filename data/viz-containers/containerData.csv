@@ -2,58 +2,57 @@ ID,material,preScheme,destination,consumer,growth,containers
 1,Aluminium,Growth,C4C,Business,Growth,2
 3,Aluminium,Growth,C4C,Community,Growth,4.5
 4,Aluminium,Growth,C4C,Individual,Growth,99.6
-6,Aluminium,Growth,Landfill,Landfill,Growth,56.5
-8,Aluminium,Growth,MRF,Business,Growth,17.3
 5,Aluminium,Landfill,C4C,Landfill,,164.2
-7,Aluminium,Landfill,Landfill,Landfill,,149.2
 2,Aluminium,MRF,C4C,Business,,115.7
+6,Aluminium,Growth,Landfill,Landfill,Growth,56.5
+7,Aluminium,Landfill,Landfill,Landfill,,149.2
+8,Aluminium,Growth,MRF,Business,Growth,17.3
 9,Aluminium,MRF,MRF,Business,,45.7
-16,Glass,Landfill,C4C,Landfill,,184
-17,Glass,Landfill,Landfill,Landfill,Decline,18.4
-18,Glass,Landfill,Landfill,Landfill,,60.4
-10,Glass,MRF,C4C,Business,Decline,0.7
-11,Glass,MRF,C4C,Business,,85.8
-19,Glass,MRF,MRF,Business,Decline,11.4
-20,Glass,MRF,MRF,Business,,37.5
-12,Glass,,C4C,Community,Decline,
-13,Glass,,C4C,Community,,
-14,Glass,,C4C,Individual,Decline,
-15,Glass,,C4C,Individual,,
-21,HDPE,Growth,C4C,Business,Growth,0
-23,HDPE,Growth,C4C,Community,Growth,0
-24,HDPE,Growth,C4C,Individual,Growth,1.4
-26,HDPE,Growth,Landfill,Landfill,Growth,2.6
-28,HDPE,Growth,MRF,Business,Growth,0.5
-25,HDPE,Landfill,C4C,Landfill,,1.9
-27,HDPE,Landfill,Landfill,Landfill,,11.7
-22,HDPE,MRF,C4C,Business,,4.8
-29,HDPE,MRF,MRF,Business,,2.2
-30,Liquid Paper Board,Growth,C4C,Business,Growth,0
-32,Liquid Paper Board,Growth,C4C,Community,Growth,0.2
-33,Liquid Paper Board,Growth,C4C,Individual,Growth,4.3
-34,Liquid Paper Board,Growth,Landfill,Landfill,Growth,11.6
-35,Liquid Paper Board,Landfill,Landfill,Landfill,,45.7
-31,Liquid Paper Board,MRF,C4C,Business,,21.5
-36,PET,Growth,C4C,Business,Growth,1
-38,PET,Growth,C4C,Community,Growth,2.4
-39,PET,Growth,C4C,Individual,Growth,70.6
-41,PET,Growth,Landfill,Landfill,Growth,65.9
-43,PET,Growth,MRF,Business,Growth,11.5
-40,PET,Landfill,C4C,Landfill,,74.3
-42,PET,Landfill,Landfill,Landfill,,144
-37,PET,MRF,C4C,Business,,87.4
-44,PET,MRF,MRF,Business,,25.1
-45,Steel,Growth,C4C,Business,Growth,0
-47,Steel,Growth,C4C,Community,Growth,0
-48,Steel,Growth,C4C,Individual,Growth,1.1
-50,Steel,Growth,Landfill,Landfill,Growth,0.9
-49,Steel,Landfill,C4C,Landfill,,0.1
-51,Steel,Landfill,Landfill,Landfill,,0.1
-46,Steel,MRF,C4C,Business,,0.1
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
+18,Glass,Landfill,C4C,Individual,Decline,35.7
+10,Glass,Landfill,C4C,Business,Decline,1.1
+14,Glass,Landfill,C4C,Community,Decline,2.2
+15,Glass,Landfill,C4C,Community,,-2.2
+19,Glass,Landfill,C4C,Individual,,-35.7
+22,Glass,Landfill,C4C,Landfill,,184
+11,Glass,Landfill,C4C,Business,,-1.1
+16,Glass,MRF,C4C,Community,Decline,1.4
+20,Glass,MRF,C4C,Individual,Decline,22.2
+12,Glass,MRF,C4C,Business,Decline,0.7
+21,Glass,MRF,C4C,Individual,,-22.2
+13,Glass,MRF,C4C,Business,,85.8
+17,Glass,MRF,C4C,Community,,-1.4
+23,Glass,Landfill,Landfill,Landfill,Decline,18.4
+24,Glass,Landfill,Landfill,Landfill,,60.4
+25,Glass,MRF,MRF,Business,Decline,11.4
+26,Glass,MRF,MRF,Business,,37.5
+27,HDPE,Growth,C4C,Business,Growth,0
+30,HDPE,Growth,C4C,Individual,Growth,1.4
+29,HDPE,Growth,C4C,Community,Growth,0
+31,HDPE,Landfill,C4C,Landfill,,1.9
+28,HDPE,MRF,C4C,Business,,4.8
+32,HDPE,Growth,Landfill,Landfill,Growth,2.6
+33,HDPE,Landfill,Landfill,Landfill,,11.7
+34,HDPE,Growth,MRF,Business,Growth,0.5
+35,HDPE,MRF,MRF,Business,,2.2
+38,Liquid Paper Board,Growth,C4C,Community,Growth,0.2
+39,Liquid Paper Board,Growth,C4C,Individual,Growth,4.3
+36,Liquid Paper Board,Growth,C4C,Business,Growth,0
+37,Liquid Paper Board,MRF,C4C,Business,,21.5
+40,Liquid Paper Board,Growth,Landfill,Landfill,Growth,11.6
+41,Liquid Paper Board,Landfill,Landfill,Landfill,,45.7
+44,PET,Growth,C4C,Community,Growth,2.4
+42,PET,Growth,C4C,Business,Growth,1
+45,PET,Growth,C4C,Individual,Growth,70.6
+46,PET,Landfill,C4C,Landfill,,74.3
+43,PET,MRF,C4C,Business,,87.4
+47,PET,Growth,Landfill,Landfill,Growth,65.9
+48,PET,Landfill,Landfill,Landfill,,144
+49,PET,Growth,MRF,Business,Growth,11.5
+50,PET,MRF,MRF,Business,,25.1
+51,Steel,Growth,C4C,Business,Growth,0
+53,Steel,Growth,C4C,Community,Growth,0
+54,Steel,Growth,C4C,Individual,Growth,1.1
+55,Steel,Landfill,C4C,Landfill,,0.1
+52,Steel,MRF,C4C,Business,,0.1
+56,Steel,Growth,Landfill,Landfill,Growth,0.9
+57,Steel,Landfill,Landfill,Landfill,,0.1
